@@ -1,0 +1,21 @@
+.menu-icon {
+    padding-top: 20px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
+
+.menu {
+    position: relative;
+}
+.menu-nav {
+    margin: 0 auto;
+    position: absolute;
+    list-style-type: none;
+    text-transform: uppercase;
+}
+.menu-nav li a {
+    display: block;
+    text-decoration: none;
+    color: black;
+    list-style-type: none;
+}
