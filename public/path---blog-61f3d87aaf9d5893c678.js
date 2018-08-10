@@ -1,0 +1,2 @@
+webpackJsonp([49683490770531],{380:function(e,t){e.exports={data:{allMarkdownRemark:{edges:[{node:{excerpt:"Oooooh-weeee, my first blog post!",id:"/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark",frontmatter:{title:"My First Gatsby Post",date:"July 12, 2017",path:"/hello-world"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---blog-61f3d87aaf9d5893c678.js.map
