@@ -623,6 +623,22 @@ pre tt:after {
   padding-top: 3vh;
   width: 100%;
 }
+.blog-posts {
+  margin: 0 auto;
+  text-align: center;
+}
+.blog-posts h1 a {
+  text-decoration: none;
+  color: black;
+  text-transform: uppercase;
+}
+.blog-post h1 {
+  text-align: center;
+}
+.pic {
+  display: block;
+  margin: 0 auto;
+}
 @media (min-width: 320px) {
   .container {
     padding-left: 10%;

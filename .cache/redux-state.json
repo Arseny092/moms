@@ -1,13 +1,23 @@
 {
   "nodes": {
     "SitePage /dev-404-page/": {
+      "layout": "index",
+      "jsonName": "dev-404-page.json",
+      "internalComponentName": "ComponentDev404Page",
       "path": "/dev-404-page/",
+      "component": "/Users/arseny/Documents/momsband/.cache/dev-404-page.js",
+      "componentChunkName": "component---cache-dev-404-page-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin dev-404-page",
+      "pluginCreatorId": "Plugin dev-404-page",
+      "componentPath": "/Users/arseny/Documents/momsband/.cache/dev-404-page.js",
       "id": "SitePage /dev-404-page/",
       "parent": "SOURCE",
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f91d29e10ba680b413138cf9ed86e655",
+        "contentDigest": "73b30009ed8118f0ff08fa16493d742a",
+        "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
     },
@@ -192,6 +202,67 @@
         "owner": "internal-data-bridge"
       }
     },
+    "Plugin gatsby-plugin-catch-links": {
+      "resolve": "/Users/arseny/Documents/momsband/node_modules/gatsby-plugin-catch-links",
+      "id": "Plugin gatsby-plugin-catch-links",
+      "name": "gatsby-plugin-catch-links",
+      "version": "1.0.24",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [],
+      "browserAPIs": [
+        "onClientEntry"
+      ],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/arseny/Documents/momsband/node_modules/gatsby-plugin-catch-links",
+      "packageJson": {
+        "name": "gatsby-plugin-catch-links",
+        "description": "Intercepts local links from markdown and other non-react pages and does a client-side pushState to avoid the browser having to refresh the page.",
+        "version": "1.0.24",
+        "main": "index.js",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.0.0"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5676aedb1788309664f193185a6f7772",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
     "Plugin gatsby-plugin-react-helmet": {
       "resolve": "/Users/arseny/Documents/momsband/node_modules/gatsby-plugin-react-helmet",
       "id": "Plugin gatsby-plugin-react-helmet",
@@ -269,16 +340,258 @@
         "owner": "internal-data-bridge"
       }
     },
-    "Plugin default-site-plugin": {
-      "resolve": "/Users/arseny/Documents/momsband",
-      "id": "Plugin default-site-plugin",
-      "name": "default-site-plugin",
-      "version": "cbb7b61cbbc5b47e8a9fbff0a4d835d3",
+    "Plugin gatsby-source-filesystem": {
+      "resolve": "/Users/arseny/Documents/momsband/node_modules/gatsby-source-filesystem",
+      "id": "Plugin gatsby-source-filesystem",
+      "name": "gatsby-source-filesystem",
+      "version": "1.5.39",
+      "pluginOptions": {
+        "plugins": [],
+        "path": "/Users/arseny/Documents/momsband/src/pages",
+        "name": "pages"
+      },
+      "nodeAPIs": [
+        "sourceNodes",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/arseny/Documents/momsband/node_modules/gatsby-source-filesystem",
+      "packageJson": {
+        "name": "gatsby-source-filesystem",
+        "description": "Gatsby plugin which parses files within a directory for further parsing by other plugins",
+        "version": "1.5.39",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "better-queue",
+            "version": "^3.8.7"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "chokidar",
+            "version": "^1.7.0"
+          },
+          {
+            "name": "fs-extra",
+            "version": "^4.0.1"
+          },
+          {
+            "name": "got",
+            "version": "^7.1.0"
+          },
+          {
+            "name": "md5-file",
+            "version": "^3.1.1"
+          },
+          {
+            "name": "mime",
+            "version": "^1.3.6"
+          },
+          {
+            "name": "pretty-bytes",
+            "version": "^4.0.2"
+          },
+          {
+            "name": "slash",
+            "version": "^1.0.0"
+          },
+          {
+            "name": "valid-url",
+            "version": "^1.0.9"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [
+          {
+            "name": "gatsby",
+            "version": "^1.9.250"
+          }
+        ],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "64ff450863aaa49bbedba217c42849e6",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin gatsby-transformer-remark": {
+      "resolve": "/Users/arseny/Documents/momsband/node_modules/gatsby-transformer-remark",
+      "id": "Plugin gatsby-transformer-remark",
+      "name": "gatsby-transformer-remark",
+      "version": "1.7.44",
       "pluginOptions": {
         "plugins": []
       },
       "nodeAPIs": [
-        "modifyWebpackConfig"
+        "onCreateNode",
+        "setFieldsOnGraphQLNodeType"
+      ],
+      "browserAPIs": [],
+      "ssrAPIs": [],
+      "pluginFilepath": "/Users/arseny/Documents/momsband/node_modules/gatsby-transformer-remark",
+      "packageJson": {
+        "name": "gatsby-transformer-remark",
+        "description": "Gatsby transformer plugin for Markdown using the Remark library and ecosystem",
+        "version": "1.7.44",
+        "keywords": [
+          "gatsby",
+          "gatsby-plugin",
+          "markdown",
+          "remark"
+        ],
+        "author": {
+          "name": "Kyle Mathews",
+          "email": "mathews.kyle@gmail.com"
+        },
+        "license": "MIT",
+        "dependencies": [
+          {
+            "name": "babel-runtime",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "bluebird",
+            "version": "^3.5.0"
+          },
+          {
+            "name": "graphql-type-json",
+            "version": "^0.1.4"
+          },
+          {
+            "name": "gray-matter",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "hast-util-raw",
+            "version": "^2.0.2"
+          },
+          {
+            "name": "hast-util-to-html",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "lodash",
+            "version": "^4.17.4"
+          },
+          {
+            "name": "mdast-util-to-hast",
+            "version": "^2.4.0"
+          },
+          {
+            "name": "mdast-util-toc",
+            "version": "^2.0.1"
+          },
+          {
+            "name": "remark",
+            "version": "^7.0.1"
+          },
+          {
+            "name": "remark-parse",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "remark-retext",
+            "version": "^3.1.0"
+          },
+          {
+            "name": "remark-stringify",
+            "version": "^4.0.0"
+          },
+          {
+            "name": "retext-english",
+            "version": "^3.0.0"
+          },
+          {
+            "name": "sanitize-html",
+            "version": "^1.14.1"
+          },
+          {
+            "name": "underscore.string",
+            "version": "^3.3.4"
+          },
+          {
+            "name": "unified",
+            "version": "^6.1.5"
+          },
+          {
+            "name": "unist-util-remove-position",
+            "version": "^1.1.1"
+          },
+          {
+            "name": "unist-util-select",
+            "version": "^1.5.0"
+          },
+          {
+            "name": "unist-util-visit",
+            "version": "^1.1.1"
+          }
+        ],
+        "devDependencies": [
+          {
+            "name": "babel-cli",
+            "version": "^6.26.0"
+          },
+          {
+            "name": "babel-plugin-transform-object-rest-spread",
+            "version": "^6.20.2"
+          },
+          {
+            "name": "cross-env",
+            "version": "^5.0.5"
+          }
+        ],
+        "peerDependencies": [],
+        "optionalDependecies": [],
+        "bundledDependecies": []
+      },
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "contentDigest": "5dec8e4a5a89631ea18a5a1d000dacdf",
+        "type": "SitePlugin",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "Plugin default-site-plugin": {
+      "resolve": "/Users/arseny/Documents/momsband",
+      "id": "Plugin default-site-plugin",
+      "name": "default-site-plugin",
+      "version": "f758ad9c3a78b5c63a8a5e307a5c03c5",
+      "pluginOptions": {
+        "plugins": []
+      },
+      "nodeAPIs": [
+        "modifyWebpackConfig",
+        "createPages"
       ],
       "browserAPIs": [],
       "ssrAPIs": [],
@@ -295,15 +608,27 @@
         "dependencies": [
           {
             "name": "gatsby",
-            "version": "^1.9.272"
+            "version": "^1.9.277"
           },
           {
             "name": "gatsby-link",
             "version": "^1.6.44"
           },
           {
+            "name": "gatsby-plugin-catch-links",
+            "version": "^1.0.24"
+          },
+          {
             "name": "gatsby-plugin-react-helmet",
             "version": "^2.0.11"
+          },
+          {
+            "name": "gatsby-source-filesystem",
+            "version": "^1.5.39"
+          },
+          {
+            "name": "gatsby-transformer-remark",
+            "version": "^1.7.44"
           },
           {
             "name": "invariant",
@@ -343,7 +668,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "e4dcd5d3f2de56ef014fe0618bd10bb6",
+        "contentDigest": "463b82dd13d76b713bc4f208395b1769",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -432,17 +757,511 @@
     },
     "Site": {
       "siteMetadata": {
-        "title": "Moms band"
+        "title": "Mommys band"
       },
+      "port": "8000",
+      "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-07-11T15:59:49.461Z",
+      "buildTime": "2018-08-10T19:43:59.121Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "0bc8e00f466a02d72518e420fdedd3aa",
+        "contentDigest": "c660e6fb33116587cea756851604a115",
         "type": "Site",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/arseny/Documents/momsband/src/pages absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "3055de8b145778cce30dbcfddd142ede",
+        "type": "Directory",
+        "description": "Directory \"src/pages\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages",
+      "relativePath": "",
+      "extension": "",
+      "size": 256,
+      "prettySize": "256 B",
+      "modifiedTime": "2018-08-10T19:43:47.799Z",
+      "accessTime": "2018-08-10T19:44:00.747Z",
+      "changeTime": "2018-08-10T19:43:47.799Z",
+      "birthTime": "2018-06-05T19:42:57.965Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src",
+      "base": "pages",
+      "ext": "",
+      "name": "pages",
+      "relativeDirectory": "..",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 8,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301212736,
+      "blocks": 0,
+      "atimeMs": 1533930240747.2407,
+      "mtimeMs": 1533930227799.495,
+      "ctimeMs": 1533930227799.495,
+      "birthtimeMs": 1528227777965.4854,
+      "atime": "2018-08-10T19:44:00.747Z",
+      "mtime": "2018-08-10T19:43:47.799Z",
+      "ctime": "2018-08-10T19:43:47.799Z",
+      "birthtime": "2018-06-05T19:42:57.965Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/07-08-2018 absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "e13b24d2f144ec97d341031d6e8965d9",
+        "type": "Directory",
+        "description": "Directory \"src/pages/07-08-2018\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018",
+      "relativePath": "07-08-2018",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-08-10T19:43:47.802Z",
+      "accessTime": "2018-08-10T19:44:00.750Z",
+      "changeTime": "2018-08-10T19:43:47.802Z",
+      "birthTime": "2018-08-07T19:11:03.585Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "07-08-2018",
+      "ext": "",
+      "name": "07-08-2018",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301388907,
+      "blocks": 0,
+      "atimeMs": 1533930240750.1172,
+      "mtimeMs": 1533930227801.9133,
+      "ctimeMs": 1533930227801.9133,
+      "birthtimeMs": 1533669063584.9895,
+      "atime": "2018-08-10T19:44:00.750Z",
+      "mtime": "2018-08-10T19:43:47.802Z",
+      "ctime": "2018-08-10T19:43:47.802Z",
+      "birthtime": "2018-08-07T19:11:03.585Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018 absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018 absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6ccdab49c6cb79f9dc0cdbc246515078",
+        "type": "Directory",
+        "description": "Directory \"src/pages/08-09-2018\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
+      "relativePath": "08-09-2018",
+      "extension": "",
+      "size": 96,
+      "prettySize": "96 B",
+      "modifiedTime": "2018-08-10T19:43:47.796Z",
+      "accessTime": "2018-08-10T19:44:00.750Z",
+      "changeTime": "2018-08-10T19:43:47.796Z",
+      "birthTime": "2018-08-09T19:18:58.934Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "08-09-2018",
+      "ext": "",
+      "name": "08-09-2018",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 16877,
+      "nlink": 3,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301400175,
+      "blocks": 0,
+      "atimeMs": 1533930240750.1858,
+      "mtimeMs": 1533930227796.4626,
+      "ctimeMs": 1533930227796.4626,
+      "birthtimeMs": 1533842338934.4873,
+      "atime": "2018-08-10T19:44:00.750Z",
+      "mtime": "2018-08-10T19:43:47.796Z",
+      "ctime": "2018-08-10T19:43:47.796Z",
+      "birthtime": "2018-08-09T19:18:58.934Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/404.js absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/404.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "8d50d9a7e3f04ddcc5ff8d43b6effe79",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/404.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/404.js",
+      "relativePath": "404.js",
+      "extension": "js",
+      "size": 198,
+      "prettySize": "198 B",
+      "modifiedTime": "2018-06-05T19:42:57.966Z",
+      "accessTime": "2018-08-10T19:43:48.662Z",
+      "changeTime": "2018-07-10T18:46:52.775Z",
+      "birthTime": "2018-06-05T19:42:57.966Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "404.js",
+      "ext": ".js",
+      "name": "404",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301212738,
+      "blocks": 8,
+      "atimeMs": 1533930228662.1218,
+      "mtimeMs": 1528227777965.5808,
+      "ctimeMs": 1531248412774.6436,
+      "birthtimeMs": 1528227777965.5298,
+      "atime": "2018-08-10T19:43:48.662Z",
+      "mtime": "2018-06-05T19:42:57.966Z",
+      "ctime": "2018-07-10T18:46:52.775Z",
+      "birthtime": "2018-06-05T19:42:57.966Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/about.js absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "ba6f8ab08a712657d393a8f261ed8666",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/about.js",
+      "relativePath": "about.js",
+      "extension": "js",
+      "size": 1196,
+      "prettySize": "1.2 kB",
+      "modifiedTime": "2018-06-19T15:34:02.942Z",
+      "accessTime": "2018-08-10T19:43:48.662Z",
+      "changeTime": "2018-07-10T18:46:52.774Z",
+      "birthTime": "2018-06-19T15:34:02.942Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301212737,
+      "blocks": 8,
+      "atimeMs": 1533930228662.1245,
+      "mtimeMs": 1529422442941.8523,
+      "ctimeMs": 1531248412773.778,
+      "birthtimeMs": 1529422442941.6821,
+      "atime": "2018-08-10T19:43:48.662Z",
+      "mtime": "2018-06-19T15:34:02.942Z",
+      "ctime": "2018-07-10T18:46:52.774Z",
+      "birthtime": "2018-06-19T15:34:02.942Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/blog.js absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/blog.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "503048cf2749435fa325f069fcbd9587",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/blog.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/blog.js",
+      "relativePath": "blog.js",
+      "extension": "js",
+      "size": 1356,
+      "prettySize": "1.36 kB",
+      "modifiedTime": "2018-08-10T19:43:47.799Z",
+      "accessTime": "2018-08-10T19:43:56.708Z",
+      "changeTime": "2018-08-10T19:43:47.799Z",
+      "birthTime": "2018-08-10T19:43:47.798Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "blog.js",
+      "ext": ".js",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301405741,
+      "blocks": 8,
+      "atimeMs": 1533930236708.2832,
+      "mtimeMs": 1533930227798.5603,
+      "ctimeMs": 1533930227799.3274,
+      "birthtimeMs": 1533930227798.276,
+      "atime": "2018-08-10T19:43:56.708Z",
+      "mtime": "2018-08-10T19:43:47.799Z",
+      "ctime": "2018-08-10T19:43:47.799Z",
+      "birthtime": "2018-08-10T19:43:47.798Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/index.js absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/index.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "9d0f18d80362e08669d4cfe9a4c63b61",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/index.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/index.js",
+      "relativePath": "index.js",
+      "extension": "js",
+      "size": 15493,
+      "prettySize": "15.5 kB",
+      "modifiedTime": "2018-07-11T15:57:39.407Z",
+      "accessTime": "2018-08-10T19:43:48.662Z",
+      "changeTime": "2018-07-11T15:57:39.408Z",
+      "birthTime": "2018-07-11T15:57:39.407Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "index.js",
+      "ext": ".js",
+      "name": "index",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301222446,
+      "blocks": 32,
+      "atimeMs": 1533930228662.1309,
+      "mtimeMs": 1531324659406.9707,
+      "ctimeMs": 1531324659407.6145,
+      "birthtimeMs": 1531324659406.8782,
+      "atime": "2018-08-10T19:43:48.662Z",
+      "mtime": "2018-07-11T15:57:39.407Z",
+      "ctime": "2018-07-11T15:57:39.408Z",
+      "birthtime": "2018-07-11T15:57:39.407Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file",
+      "children": [
+        "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "6ced0ca2bfe604ffe1b182f7143b4cbc",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/07-08-2018/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md",
+      "relativePath": "07-08-2018/index.md",
+      "extension": "md",
+      "size": 377,
+      "prettySize": "377 B",
+      "modifiedTime": "2018-08-10T19:43:47.801Z",
+      "accessTime": "2018-08-10T19:43:56.708Z",
+      "changeTime": "2018-08-10T19:43:47.802Z",
+      "birthTime": "2018-08-10T19:43:47.801Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages/07-08-2018",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "07-08-2018",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301405742,
+      "blocks": 8,
+      "atimeMs": 1533930236708.268,
+      "mtimeMs": 1533930227801.315,
+      "ctimeMs": 1533930227801.8042,
+      "birthtimeMs": 1533930227801.1646,
+      "atime": "2018-08-10T19:43:56.708Z",
+      "mtime": "2018-08-10T19:43:47.801Z",
+      "ctime": "2018-08-10T19:43:47.802Z",
+      "birthtime": "2018-08-10T19:43:47.801Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+      "children": [
+        "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "a408eb8847828012be9b51fab21403ea",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/08-09-2018/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md",
+      "relativePath": "08-09-2018/index.md",
+      "extension": "md",
+      "size": 202,
+      "prettySize": "202 B",
+      "modifiedTime": "2018-08-10T19:43:47.796Z",
+      "accessTime": "2018-08-10T19:43:56.708Z",
+      "changeTime": "2018-08-10T19:43:47.796Z",
+      "birthTime": "2018-08-10T19:43:47.796Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "08-09-2018",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4301405740,
+      "blocks": 8,
+      "atimeMs": 1533930236708.277,
+      "mtimeMs": 1533930227795.7583,
+      "ctimeMs": 1533930227796.3394,
+      "birthtimeMs": 1533930227795.6226,
+      "atime": "2018-08-10T19:43:56.708Z",
+      "mtime": "2018-08-10T19:43:47.796Z",
+      "ctime": "2018-08-10T19:43:47.796Z",
+      "birthtime": "2018-08-10T19:43:47.796Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/hello-world\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка 12/07/2018\"\nsrc: \"/static/2m.jpg\" \n---\n<div class=\"post-container\">\n<h1>Крутая съемка</h1>\n<picture>\n<source media=\"(min-width: 960px)\" srcset=\"/static/1d.jpg\">\n<source media=\"(min-width: 620px)\" srcset=\"/static/1t.jpg\">\n<img class=\"pic\" src=\"/static/1m.jpg\" alt=\"12\">\n</picture>\n</div>",
+        "type": "MarkdownRemark",
+        "contentDigest": "5da80c2b5bacdf46c763b40bfe09fb4f",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Съемка 12/07/2018",
+        "path": "/hello-world",
+        "date": "2017-07-12T17:12:33.962Z",
+        "src": "/static/2m.jpg",
+        "_PARENT": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file",
+        "parent": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<div class=\"post-container\">\n<h1>Крутая съемка</h1>\n<picture>\n<source media=\"(min-width: 960px)\" srcset=\"/static/1d.jpg\">\n<source media=\"(min-width: 620px)\" srcset=\"/static/1t.jpg\">\n<img class=\"pic\" src=\"/static/1m.jpg\" alt=\"12\">\n</picture>\n</div>",
+      "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/hello-world-two\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка 12/07/2018\"\nsrc: \"/static/1m.jpg\"\n---\nOooooh-weeee, my first blog post!\n![alt text](/static/1m.jpg \"Logo Title Text 1\")",
+        "type": "MarkdownRemark",
+        "contentDigest": "773821ee4f2e2c0505ef34faf3d69841",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Съемка 12/07/2018",
+        "path": "/hello-world-two",
+        "date": "2017-07-12T17:12:33.962Z",
+        "src": "/static/1m.jpg",
+        "_PARENT": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+        "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "Oooooh-weeee, my first blog post!\n![alt text](/static/1m.jpg \"Logo Title Text 1\")",
+      "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md"
+    },
+    "SitePage /hello-world": {
+      "layout": "index",
+      "jsonName": "hello-world.json",
+      "internalComponentName": "ComponentHelloWorld",
+      "path": "/hello-world",
+      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "id": "SitePage /hello-world",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "3af9534d1088a42ac057023a08de4d82",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /hello-world-two": {
+      "layout": "index",
+      "jsonName": "hello-world-two.json",
+      "internalComponentName": "ComponentHelloWorldTwo",
+      "path": "/hello-world-two",
+      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "id": "SitePage /hello-world-two",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "ab0e7a2576d2fde3f72515fcb9bc5267",
+        "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
@@ -462,7 +1281,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "62c95b6b7a28cb08c9b40d337f2a1c5d",
+        "contentDigest": "0b4d647d2d34d42017bc98af1a93eb9d",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -483,7 +1302,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "14b5bb0557efcc0851ce125cb8515d1f",
+        "contentDigest": "3b637dd793e0a145ca8c4a48d5ecb17d",
+        "description": "Plugin gatsby-plugin-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/blog/",
+      "component": "/Users/arseny/Documents/momsband/src/pages/blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin gatsby-plugin-page-creator",
+      "pluginCreatorId": "Plugin gatsby-plugin-page-creator",
+      "componentPath": "/Users/arseny/Documents/momsband/src/pages/blog.js",
+      "id": "SitePage /blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "5af8dc0926e9918ebb5ec16297f60181",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -504,7 +1344,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1fb8dc1a9210a7e5a48fd633b3940fe9",
+        "contentDigest": "aab233c8cea6556b4dfb8a9217abc62a",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -525,7 +1365,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ab5f69cfd00bdb68900eb517c99cb44b",
+        "contentDigest": "93c5f5796d21baec9171eb5ac9a45d43",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -533,10 +1373,16 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "4d75a20de00251fa5d074692f4295d1d"
+    "PLUGINS_HASH": "1feba7183105bf3f6914c33fb47e9c78"
   },
   "componentDataDependencies": {
     "nodes": {
+      "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world"
+      ],
+      "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world-two"
+      ],
       "Site": [
         "LAYOUT___index"
       ]
@@ -544,6 +1390,9 @@
     "connections": {
       "SitePage": [
         "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/blog/"
       ]
     }
   }
