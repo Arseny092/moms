@@ -24,5 +24,6 @@ exports.json = {
   "about.json": require("/Users/arseny/Documents/momsband/.cache/json/about.json"),
   "blog.json": require("/Users/arseny/Documents/momsband/.cache/json/blog.json"),
   "index.json": require("/Users/arseny/Documents/momsband/.cache/json/index.json"),
-  "404-html.json": require("/Users/arseny/Documents/momsband/.cache/json/404-html.json")
+  "404-html.json": require("/Users/arseny/Documents/momsband/.cache/json/404-html.json"),
+  "alla.json": require("/Users/arseny/Documents/momsband/.cache/json/alla.json")
 }

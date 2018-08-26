@@ -19,7 +19,8 @@ exports.json = {
   "about.json": require("gatsby-module-loader?name=path---about!/Users/arseny/Documents/momsband/.cache/json/about.json"),
   "blog.json": require("gatsby-module-loader?name=path---blog!/Users/arseny/Documents/momsband/.cache/json/blog.json"),
   "index.json": require("gatsby-module-loader?name=path---index!/Users/arseny/Documents/momsband/.cache/json/index.json"),
-  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/arseny/Documents/momsband/.cache/json/404-html.json")
+  "404-html.json": require("gatsby-module-loader?name=path---404-html!/Users/arseny/Documents/momsband/.cache/json/404-html.json"),
+  "alla.json": require("gatsby-module-loader?name=path---alla!/Users/arseny/Documents/momsband/.cache/json/alla.json")
 }
 
 exports.layouts = {
