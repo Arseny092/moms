@@ -1,4 +1,6 @@
 .menu-icon {
+    display: block;
+    width: 100px;
     padding-top: 20px;
     cursor: pointer;
     text-transform: uppercase;

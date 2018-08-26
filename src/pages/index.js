@@ -5,15 +5,17 @@ import Media from 'react-media';
 class AboutPage extends React.Component {
     render () {
         return (
+            <div className="container-main">
             <Media query="(min-width: 620px)">
                 {matches =>
                     matches ? (
-                        <Gallery images={IMAGES} rowHeight={300}/>
+                        <Gallery images={IMAGES} rowHeight={300} enableImageSelection={false}/>
                     ) : (
-                        <Gallery images={IMAGESMOBILE} rowHeight={400}/>
+                        <Gallery images={IMAGESMOBILE} rowHeight={400} enableImageSelection={false}/>
                     )
                 }
             </Media>
+            </div>
         );
     }
 }

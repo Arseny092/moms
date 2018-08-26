@@ -16,9 +16,10 @@ export default function Blog({
                             <h1>
                                 <Link to={post.frontmatter.path}>{post.frontmatter.title}</Link>
                             </h1>
-                            <img src={post.frontmatter.src}></img>
+                            <Link to={post.frontmatter.path}><img src={post.frontmatter.src}></img></Link>
                             <h2>{post.frontmatter.date}</h2>
                             <p>{post.excerpt}</p>
+                            <Link to={post.frontmatter.path}><button className="blog-post-btn">Читать далее</button></Link>
                         </div>
                     );
                 })}
