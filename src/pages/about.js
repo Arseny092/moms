@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'gatsby-link'
 
 const SecondPage = () => (
-    <div>
+    <div className="about-container">
         <h1>Привет!</h1>
         <p>
             Мы проект Mommy’s Band во главе с фотографом Аней Парамоновой, а также стилистом Евгенией Тарлецкой.

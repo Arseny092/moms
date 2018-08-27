@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0770930e11c0822048c784a7d1b636cb",
+        "contentDigest": "434b5d47cadd9a43bef445cd20e64e4c",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -644,7 +644,7 @@
           },
           {
             "name": "react-images",
-            "version": "^0.5.17"
+            "version": "^0.5.19"
           },
           {
             "name": "react-media",
@@ -763,12 +763,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-26T18:30:45.501Z",
+      "buildTime": "2018-08-27T18:49:53.401Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "d971d61369e11f9c6897565cc2a58609",
+        "contentDigest": "ec23ede2cd46965bb38ab3013bc90f1b",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -778,7 +778,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "bb21f1a0931baf853fad75251c6cb6d1",
+        "contentDigest": "15c9de79f4b560410ca10949af1db33e",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -789,9 +789,9 @@
       "extension": "",
       "size": 256,
       "prettySize": "256 B",
-      "modifiedTime": "2018-08-10T19:43:47.799Z",
-      "accessTime": "2018-08-26T18:30:49.472Z",
-      "changeTime": "2018-08-10T19:43:47.799Z",
+      "modifiedTime": "2018-08-27T18:49:41.631Z",
+      "accessTime": "2018-08-27T18:49:55.123Z",
+      "changeTime": "2018-08-27T18:49:41.631Z",
       "birthTime": "2018-06-05T19:42:57.965Z",
       "root": "/",
       "dir": "/Users/arseny/Documents/momsband/src",
@@ -808,13 +808,13 @@
       "blksize": 4194304,
       "ino": 4301212736,
       "blocks": 0,
-      "atimeMs": 1535308249471.5088,
-      "mtimeMs": 1533930227799.495,
-      "ctimeMs": 1533930227799.495,
+      "atimeMs": 1535395795123.3882,
+      "mtimeMs": 1535395781631.2102,
+      "ctimeMs": 1535395781631.2102,
       "birthtimeMs": 1528227777965.4854,
-      "atime": "2018-08-26T18:30:49.472Z",
-      "mtime": "2018-08-10T19:43:47.799Z",
-      "ctime": "2018-08-10T19:43:47.799Z",
+      "atime": "2018-08-27T18:49:55.123Z",
+      "mtime": "2018-08-27T18:49:41.631Z",
+      "ctime": "2018-08-27T18:49:41.631Z",
       "birthtime": "2018-06-05T19:42:57.965Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/07-08-2018 absPath of file": {
@@ -822,7 +822,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a6508a5cc90a6e40882b2f31330a1340",
+        "contentDigest": "4e152bb2f99e5eef85e766fb77c2db41",
         "type": "Directory",
         "description": "Directory \"src/pages/07-08-2018\"",
         "owner": "gatsby-source-filesystem"
@@ -833,9 +833,9 @@
       "extension": "",
       "size": 96,
       "prettySize": "96 B",
-      "modifiedTime": "2018-08-10T19:43:47.802Z",
-      "accessTime": "2018-08-26T18:30:49.474Z",
-      "changeTime": "2018-08-10T19:43:47.802Z",
+      "modifiedTime": "2018-08-26T20:38:55.122Z",
+      "accessTime": "2018-08-27T18:49:55.126Z",
+      "changeTime": "2018-08-26T20:38:55.122Z",
       "birthTime": "2018-08-07T19:11:03.585Z",
       "root": "/",
       "dir": "/Users/arseny/Documents/momsband/src/pages",
@@ -852,13 +852,13 @@
       "blksize": 4194304,
       "ino": 4301388907,
       "blocks": 0,
-      "atimeMs": 1535308249474.2148,
-      "mtimeMs": 1533930227801.9133,
-      "ctimeMs": 1533930227801.9133,
+      "atimeMs": 1535395795125.9497,
+      "mtimeMs": 1535315935122.1997,
+      "ctimeMs": 1535315935122.1997,
       "birthtimeMs": 1533669063584.9895,
-      "atime": "2018-08-26T18:30:49.474Z",
-      "mtime": "2018-08-10T19:43:47.802Z",
-      "ctime": "2018-08-10T19:43:47.802Z",
+      "atime": "2018-08-27T18:49:55.126Z",
+      "mtime": "2018-08-26T20:38:55.122Z",
+      "ctime": "2018-08-26T20:38:55.122Z",
       "birthtime": "2018-08-07T19:11:03.585Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/08-09-2018 absPath of file": {
@@ -866,7 +866,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "4018b7953e6c4050ab705a83ccaaee15",
+        "contentDigest": "450a53559c2fb50bdb894d1507938607",
         "type": "Directory",
         "description": "Directory \"src/pages/08-09-2018\"",
         "owner": "gatsby-source-filesystem"
@@ -878,7 +878,7 @@
       "size": 96,
       "prettySize": "96 B",
       "modifiedTime": "2018-08-10T19:43:47.796Z",
-      "accessTime": "2018-08-26T18:30:49.474Z",
+      "accessTime": "2018-08-27T18:49:55.126Z",
       "changeTime": "2018-08-10T19:43:47.796Z",
       "birthTime": "2018-08-09T19:18:58.934Z",
       "root": "/",
@@ -896,14 +896,59 @@
       "blksize": 4194304,
       "ino": 4301400175,
       "blocks": 0,
-      "atimeMs": 1535308249474.2437,
+      "atimeMs": 1535395795125.953,
       "mtimeMs": 1533930227796.4626,
       "ctimeMs": 1533930227796.4626,
       "birthtimeMs": 1533842338934.4873,
-      "atime": "2018-08-26T18:30:49.474Z",
+      "atime": "2018-08-27T18:49:55.126Z",
       "mtime": "2018-08-10T19:43:47.796Z",
       "ctime": "2018-08-10T19:43:47.796Z",
       "birthtime": "2018-08-09T19:18:58.934Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/about.js absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/about.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "cd8f48efdd0ee772fb7687714d0d49d2",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/about.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/about.js",
+      "relativePath": "about.js",
+      "extension": "js",
+      "size": 1224,
+      "prettySize": "1.22 kB",
+      "modifiedTime": "2018-08-27T19:36:32.114Z",
+      "accessTime": "2018-08-27T19:36:32.114Z",
+      "changeTime": "2018-08-27T19:36:32.120Z",
+      "birthTime": "2018-08-27T19:36:32.114Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "about.js",
+      "ext": ".js",
+      "name": "about",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4302125606,
+      "blocks": 8,
+      "atimeMs": 1535398592113.9055,
+      "mtimeMs": 1535398592114.0938,
+      "ctimeMs": 1535398592120.2583,
+      "birthtimeMs": 1535398592113.9055,
+      "atime": "2018-08-27T19:36:32.114Z",
+      "mtime": "2018-08-27T19:36:32.114Z",
+      "ctime": "2018-08-27T19:36:32.120Z",
+      "birthtime": "2018-08-27T19:36:32.114Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/404.js absPath of file": {
       "id": "/Users/arseny/Documents/momsband/src/pages/404.js absPath of file",
@@ -923,7 +968,7 @@
       "size": 198,
       "prettySize": "198 B",
       "modifiedTime": "2018-06-05T19:42:57.966Z",
-      "accessTime": "2018-08-10T19:43:48.662Z",
+      "accessTime": "2018-08-27T18:29:34.142Z",
       "changeTime": "2018-07-10T18:46:52.775Z",
       "birthTime": "2018-06-05T19:42:57.966Z",
       "root": "/",
@@ -941,104 +986,14 @@
       "blksize": 4194304,
       "ino": 4301212738,
       "blocks": 8,
-      "atimeMs": 1533930228662.1218,
+      "atimeMs": 1535394574142.2212,
       "mtimeMs": 1528227777965.5808,
       "ctimeMs": 1531248412774.6436,
       "birthtimeMs": 1528227777965.5298,
-      "atime": "2018-08-10T19:43:48.662Z",
+      "atime": "2018-08-27T18:29:34.142Z",
       "mtime": "2018-06-05T19:42:57.966Z",
       "ctime": "2018-07-10T18:46:52.775Z",
       "birthtime": "2018-06-05T19:42:57.966Z"
-    },
-    "/Users/arseny/Documents/momsband/src/pages/about.js absPath of file": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/about.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "ba6f8ab08a712657d393a8f261ed8666",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src/pages/about.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/about.js",
-      "relativePath": "about.js",
-      "extension": "js",
-      "size": 1196,
-      "prettySize": "1.2 kB",
-      "modifiedTime": "2018-06-19T15:34:02.942Z",
-      "accessTime": "2018-08-10T19:43:48.662Z",
-      "changeTime": "2018-07-10T18:46:52.774Z",
-      "birthTime": "2018-06-19T15:34:02.942Z",
-      "root": "/",
-      "dir": "/Users/arseny/Documents/momsband/src/pages",
-      "base": "about.js",
-      "ext": ".js",
-      "name": "about",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4301212737,
-      "blocks": 8,
-      "atimeMs": 1533930228662.1245,
-      "mtimeMs": 1529422442941.8523,
-      "ctimeMs": 1531248412773.778,
-      "birthtimeMs": 1529422442941.6821,
-      "atime": "2018-08-10T19:43:48.662Z",
-      "mtime": "2018-06-19T15:34:02.942Z",
-      "ctime": "2018-07-10T18:46:52.774Z",
-      "birthtime": "2018-06-19T15:34:02.942Z"
-    },
-    "/Users/arseny/Documents/momsband/src/pages/blog.js absPath of file": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/blog.js absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "59a8d0ca48b9a4e1658933f54269b1cf",
-        "mediaType": "application/javascript",
-        "type": "File",
-        "description": "File \"src/pages/blog.js\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/blog.js",
-      "relativePath": "blog.js",
-      "extension": "js",
-      "size": 1531,
-      "prettySize": "1.53 kB",
-      "modifiedTime": "2018-08-26T19:57:24.261Z",
-      "accessTime": "2018-08-26T19:57:24.261Z",
-      "changeTime": "2018-08-26T19:57:24.267Z",
-      "birthTime": "2018-08-26T19:57:24.261Z",
-      "root": "/",
-      "dir": "/Users/arseny/Documents/momsband/src/pages",
-      "base": "blog.js",
-      "ext": ".js",
-      "name": "blog",
-      "relativeDirectory": "",
-      "dev": 16777220,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4302103338,
-      "blocks": 8,
-      "atimeMs": 1535313444260.6987,
-      "mtimeMs": 1535313444260.909,
-      "ctimeMs": 1535313444267.0312,
-      "birthtimeMs": 1535313444260.6987,
-      "atime": "2018-08-26T19:57:24.261Z",
-      "mtime": "2018-08-26T19:57:24.261Z",
-      "ctime": "2018-08-26T19:57:24.267Z",
-      "birthtime": "2018-08-26T19:57:24.261Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/index.js absPath of file": {
       "id": "/Users/arseny/Documents/momsband/src/pages/index.js absPath of file",
@@ -1058,7 +1013,7 @@
       "size": 15615,
       "prettySize": "15.6 kB",
       "modifiedTime": "2018-08-26T20:16:05.095Z",
-      "accessTime": "2018-08-26T20:16:05.095Z",
+      "accessTime": "2018-08-27T18:29:34.142Z",
       "changeTime": "2018-08-26T20:16:05.101Z",
       "birthTime": "2018-08-26T20:16:05.095Z",
       "root": "/",
@@ -1076,14 +1031,59 @@
       "blksize": 4194304,
       "ino": 4302104071,
       "blocks": 32,
-      "atimeMs": 1535314565094.8367,
+      "atimeMs": 1535394574142.281,
       "mtimeMs": 1535314565094.989,
       "ctimeMs": 1535314565101.0413,
       "birthtimeMs": 1535314565094.8367,
-      "atime": "2018-08-26T20:16:05.095Z",
+      "atime": "2018-08-27T18:29:34.142Z",
       "mtime": "2018-08-26T20:16:05.095Z",
       "ctime": "2018-08-26T20:16:05.101Z",
       "birthtime": "2018-08-26T20:16:05.095Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/blog.js absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/blog.js absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "59a8d0ca48b9a4e1658933f54269b1cf",
+        "mediaType": "application/javascript",
+        "type": "File",
+        "description": "File \"src/pages/blog.js\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/blog.js",
+      "relativePath": "blog.js",
+      "extension": "js",
+      "size": 1531,
+      "prettySize": "1.53 kB",
+      "modifiedTime": "2018-08-26T19:57:24.261Z",
+      "accessTime": "2018-08-27T18:29:34.142Z",
+      "changeTime": "2018-08-26T19:57:24.267Z",
+      "birthTime": "2018-08-26T19:57:24.261Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages",
+      "base": "blog.js",
+      "ext": ".js",
+      "name": "blog",
+      "relativeDirectory": "",
+      "dev": 16777220,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4302103338,
+      "blocks": 8,
+      "atimeMs": 1535394574142.2751,
+      "mtimeMs": 1535313444260.909,
+      "ctimeMs": 1535313444267.0312,
+      "birthtimeMs": 1535313444260.6987,
+      "atime": "2018-08-27T18:29:34.142Z",
+      "mtime": "2018-08-26T19:57:24.261Z",
+      "ctime": "2018-08-26T19:57:24.267Z",
+      "birthtime": "2018-08-26T19:57:24.261Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file": {
       "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file",
@@ -1092,7 +1092,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "3fd388d8401891b78866387c27b65972",
+        "contentDigest": "10d0390a6bf9d129b020ba903590f542",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/07-08-2018/index.md\"",
@@ -1102,12 +1102,12 @@
       "absolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md",
       "relativePath": "07-08-2018/index.md",
       "extension": "md",
-      "size": 12378,
-      "prettySize": "12.4 kB",
-      "modifiedTime": "2018-08-26T20:38:55.116Z",
-      "accessTime": "2018-08-26T20:38:55.116Z",
-      "changeTime": "2018-08-26T20:38:55.122Z",
-      "birthTime": "2018-08-26T20:38:55.116Z",
+      "size": 13157,
+      "prettySize": "13.2 kB",
+      "modifiedTime": "2018-08-27T19:18:01.671Z",
+      "accessTime": "2018-08-27T19:18:01.671Z",
+      "changeTime": "2018-08-27T19:18:01.677Z",
+      "birthTime": "2018-08-27T19:18:01.671Z",
       "root": "/",
       "dir": "/Users/arseny/Documents/momsband/src/pages/07-08-2018",
       "base": "index.md",
@@ -1121,16 +1121,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4302104902,
+      "ino": 4302125197,
       "blocks": 32,
-      "atimeMs": 1535315935116.1704,
-      "mtimeMs": 1535315935116.2876,
-      "ctimeMs": 1535315935122.067,
-      "birthtimeMs": 1535315935116.1704,
-      "atime": "2018-08-26T20:38:55.116Z",
-      "mtime": "2018-08-26T20:38:55.116Z",
-      "ctime": "2018-08-26T20:38:55.122Z",
-      "birthtime": "2018-08-26T20:38:55.116Z"
+      "atimeMs": 1535397481670.7395,
+      "mtimeMs": 1535397481670.8516,
+      "ctimeMs": 1535397481676.6182,
+      "birthtimeMs": 1535397481670.7395,
+      "atime": "2018-08-27T19:18:01.671Z",
+      "mtime": "2018-08-27T19:18:01.671Z",
+      "ctime": "2018-08-27T19:18:01.677Z",
+      "birthtime": "2018-08-27T19:18:01.671Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file": {
       "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
@@ -1139,7 +1139,7 @@
       ],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "a408eb8847828012be9b51fab21403ea",
+        "contentDigest": "404845f48cacc35dc5f2360d910b81c6",
         "mediaType": "text/markdown",
         "type": "File",
         "description": "File \"src/pages/08-09-2018/index.md\"",
@@ -1149,12 +1149,12 @@
       "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md",
       "relativePath": "08-09-2018/index.md",
       "extension": "md",
-      "size": 202,
-      "prettySize": "202 B",
-      "modifiedTime": "2018-08-10T19:43:47.796Z",
-      "accessTime": "2018-08-10T19:43:56.708Z",
-      "changeTime": "2018-08-10T19:43:47.796Z",
-      "birthTime": "2018-08-10T19:43:47.796Z",
+      "size": 4678,
+      "prettySize": "4.68 kB",
+      "modifiedTime": "2018-08-27T19:39:56.400Z",
+      "accessTime": "2018-08-27T19:39:56.400Z",
+      "changeTime": "2018-08-27T19:39:56.406Z",
+      "birthTime": "2018-08-27T19:39:56.400Z",
       "root": "/",
       "dir": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
       "base": "index.md",
@@ -1168,59 +1168,16 @@
       "gid": 20,
       "rdev": 0,
       "blksize": 4194304,
-      "ino": 4301405740,
-      "blocks": 8,
-      "atimeMs": 1533930236708.277,
-      "mtimeMs": 1533930227795.7583,
-      "ctimeMs": 1533930227796.3394,
-      "birthtimeMs": 1533930227795.6226,
-      "atime": "2018-08-10T19:43:56.708Z",
-      "mtime": "2018-08-10T19:43:47.796Z",
-      "ctime": "2018-08-10T19:43:47.796Z",
-      "birthtime": "2018-08-10T19:43:47.796Z"
-    },
-    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark",
-      "children": [],
-      "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
-      "internal": {
-        "content": "---\npath: \"/hello-world-two\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка 12/07/2018\"\nsrc: \"/static/1m.jpg\"\n---\nOooooh-weeee, my first blog post!\n![alt text](/static/1m.jpg \"Logo Title Text 1\")",
-        "type": "MarkdownRemark",
-        "contentDigest": "773821ee4f2e2c0505ef34faf3d69841",
-        "owner": "gatsby-transformer-remark"
-      },
-      "frontmatter": {
-        "title": "Съемка 12/07/2018",
-        "path": "/hello-world-two",
-        "date": "2017-07-12T17:12:33.962Z",
-        "src": "/static/1m.jpg",
-        "_PARENT": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
-        "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file"
-      },
-      "excerpt": "",
-      "rawMarkdownBody": "Oooooh-weeee, my first blog post!\n![alt text](/static/1m.jpg \"Logo Title Text 1\")",
-      "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md"
-    },
-    "SitePage /hello-world": {
-      "layout": "index",
-      "jsonName": "hello-world.json",
-      "internalComponentName": "ComponentHelloWorld",
-      "path": "/hello-world",
-      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
-      "id": "SitePage /hello-world",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "0240b1902cabafdb1faa00be8e084f36",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
+      "ino": 4302125713,
+      "blocks": 16,
+      "atimeMs": 1535398796400.0713,
+      "mtimeMs": 1535398796400.2346,
+      "ctimeMs": 1535398796406.1326,
+      "birthtimeMs": 1535398796400.0713,
+      "atime": "2018-08-27T19:39:56.400Z",
+      "mtime": "2018-08-27T19:39:56.400Z",
+      "ctime": "2018-08-27T19:39:56.406Z",
+      "birthtime": "2018-08-27T19:39:56.400Z"
     },
     "SitePage /hello-world-two": {
       "layout": "index",
@@ -1238,7 +1195,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c200a77d8d7c0e8c421d79bb48b30b2c",
+        "contentDigest": "1ba22562a272dd9b89526810647960e2",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /alla": {
+      "layout": "index",
+      "jsonName": "alla.json",
+      "internalComponentName": "ComponentAlla",
+      "path": "/alla",
+      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "id": "SitePage /alla",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "954a59f78f66f0f54e7837cceaa3a06b",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1259,7 +1237,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "f55253abedbb65cf288520d6be499df7",
+        "contentDigest": "ab0f933a943a80224a05ab0b841ae918",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1280,7 +1258,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e79ce80a1d41b80a2dbac83dd1471b06",
+        "contentDigest": "f25f0ae70573626e858d7bc57a5b2ed3",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1301,7 +1279,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "11f4a229750dc83ea3ae1c50fd08a860",
+        "contentDigest": "104ce011c74148a5d8cca96564ee57c1",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1322,7 +1300,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "2f92e7006bce7af89a1913670e75f9e1",
+        "contentDigest": "093d53f5969c549f9aec7a2397b4e725",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1343,29 +1321,8 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "cd9da3e649cdc53248437830431f24e5",
+        "contentDigest": "7f8f2dc8b242d93be4982e1fe2668fb1",
         "description": "Plugin prod-404",
-        "owner": "internal-data-bridge"
-      }
-    },
-    "SitePage /alla": {
-      "layout": "index",
-      "jsonName": "alla.json",
-      "internalComponentName": "ComponentAlla",
-      "path": "/alla",
-      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
-      "id": "SitePage /alla",
-      "parent": "SOURCE",
-      "children": [],
-      "internal": {
-        "type": "SitePage",
-        "contentDigest": "878f37a42a785dbc3182b317d44f1473",
-        "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
     },
@@ -1374,9 +1331,9 @@
       "children": [],
       "parent": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file",
       "internal": {
-        "content": "---\npath: \"/alla\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка c Аллой Удальцовой\"\nsrc: \"/static/2m.jpg\" \n---\n<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/1t.jpg\">\n<img class=\"pic\" src=\"/static/1m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Мини-интервью в рамках рубрики \"Мама недели\"\n\n##  Мы решили разнообразить нашу страничку и ввести рубрику «Мама недели», где будем делиться с вами историями мам.Сегодня мы откровенно поговорим с героиней недели - Аллой Удальцовой.\n\n**Mommys band** - Алла, тебе сейчас 24. За последние 5 лет в твоей жизни произошло много событий, которые изменили тебя не только внешне (ты стала взрослее, мудрее, ушли твои милые щечки, а взгляд стал строже и глубже), но и внутренне. Я бы хотела, чтобы твоя автобиография стала для кого-то вдохновением и желанием жить и жить счастливо не смотря ни на что. Чуть больше четырёх лет назад, когда родился Дима, ты потеряла мужа. Это было внезапно, больно. Как ты выбралась? Что помогло преодолеть весь этот ужас и жить дальше?\n\n**Алла** - Честно, это было ужасно. Я не помню свои эмоции поминутно, да и не могу сказать, что что-то четко помню. Все было как в тумане. Мне хотелось куда-то бежать, кричать, что-то делать. Мне помогло пережить первый шок то, что я сама занималась организацией похорон от «а» до «я». Я сделала так, как должно было быть и процесс организации очень мне помог в первые дни. Я не была один на один со своими мыслями. Могу сказать, что я основательно отошла от всей этой истории года 2 спустя. Меня очень поддерживали мои родители. Если бы не мама с папой, я даже не знаю, что было бы. Спустя 2 года у меня начался период переоценки ценностей, и я избавилась окончательно от образа жертвы. Я осознала, что по сути ко мне и моему ребенку это не имеет ни какого отношения. Вся эта история началась за долго до наших отношений и рождения Димы. В течении года я разобралась с тараканами в голове, начала принимать себя такую, какая я есть, прокачивала себя. В итоге очень сильно изменилось мое окружение. Я, можно сказать, избавилась от людей с которыми мне не комфортно, которые ищут выгоду, которые сплетничают за спиной, а в глаза сказать не могут. В результате я выросла и мне уже не интересно с людьми, которые не растут и не развиваются. В итоге тот ужас который свалился на мои плечи, заставил меня заново взглянуть на себя, появилась та Алла, которая есть сейчас. Но нет предела совершенству. Нужно работать и работать над собой. Иногда дать себе пендель, иногда остаться наедине со своими мыслями...\n\n**Mommys band** - Это правда, что ты сама делала ремонт? \n\n**Алла** - У меня была, конечно же, бригада из 2х человек. Но я делала многое сама. Начиная выбором обоев, заканчивая поднятием сторойматериалов в квартиру. Потом сама ездила покупала мебель и на своей машине привозила домой, поднимала все тоже сама (в основном я ездила по магазинам вечером или ночью, когда Дима спал). Я сама собрала всю мебель в комнате Димы. И стоит до сих пор! Папа в тот период сломал себе один позвонок и не мог мне помочь, поскольку лежал. Но эта ситуация преподнесла мне еще один урок в жизни - не верь, люди любят чесать языком. \n\n**Mommys band** - Я помню тебя совсем юной девчушкой, с щечками, с сумкой Louis Vuitton и в лабутенах. Ты всегда проявляла интерес к миру моды. Но в этом году ты меня приятно удивила и стала сотрудницей Vogue Russia! Расскажи, как ты туда устроилась и есть ли шанс у простых смертных попасть в журнал мечты, модничать и работать в Condé Nast?\n\n**Алла** - Не буду скрывать, я всегда об этом мечтала. Журнал Vogue - это же бомба. Я собирала номера, привозила из путешествий иностранные издания. Из Америки везла два толстенных номера! Попала очень просто. Выложила свое резюме на hh.ru. Меня пригласили на собеседование. Я даже не знала какой журнал, пока не подошла к концу первая встреча с очаровательной сотрудницей HR-отдела. Когда я услышала, что Vogue, я сразу же сказала себе - это мое место. Так и получилось. Я была самой настоящей смертной. За меня никто не просил, никто не помогал. Все сама.\n\n**Mommys band** - Алла, какого это воспитывать сына? У тебя есть какие-то методы и секреты воспитания пацана?\n\n**Алла** - Это интересно. Я не читала никаких книг про детей никогда. Мой подход - воспитай себя. Мы с Димой не просто мама и сын, мы друзья. Мы любим дурачиться, смеяться, щекотать друг друга и прыгать на кровати. Я позволяю Диме делать все то, что я делала в детстве и то, что я хотела делать. Я никогда не обращалась к нему, как к ребенку и никогда не сюсюкаюсь. Люблю Диму обнимать и целовать. Он от этого не в восторге, стоит и ждёт, пока я нацелую и наобнимаю его и говорит: «Мама, может хвалить обниматься, можно я пойду железную дорого строить».\nНам такой вариант диалога подходит. Мы счастливы. \n\n**Mommys band** - Дима ходит в садик? Бытует мнение, точнее некоторые мамы убеждены, что сады это зло. Якобы в садах дети дерутся, становятся агрессивней, часто болеют. Я считаю, что это первая и чуть ли не главная школа жизни. Но надо очень много говорить с ребёнком, чтобы он рассказывал все, что происходит в садике. \n\n**Алла** - Дима ходит в сад. Я абсолютно с тобой согласна, детский сад - это школа жизни. Болеет частенько, но лучше пусть он переболеет в саду, чем в школе. Я стараюсь относиться к его ОРВИ спокойно, а свои переживания оставлять при себе. \nНаш первый сад подкачал, сейчас я перевела его в другой. Тьфу-тьфу, надеюсь, все будет хорошо. У нас с Димой есть диалог. Я считаю, что это самое важное. Он рассказывает мне все свои секреты. Даже все те секреты, инициатором которых был сам Дима. Я люблю его слушать, он мне напоминает меня. Он знает, что мне он может рассказать все и это останется только между нами.\n\n**Mommys band** - Ты невероятно красивая. Расскажи о своём уходе за лицом, телом и волосах. \n\n**Алла** - Благодарю. Лицо. Все очень просто, кожу хорошо очищаем, затем увлажняем. У меня уход Sensai. Он дорогой, но очень экономичный и хорошо работает. Часто меня можно встретить без косметики - использую только дневной крем с spf. Если есть косметика, то это минимум пудры, тени, туш, карандаш для бровей, румяна. Люблю разные увлажняющие маски, стараюсь раз в месяц делать массаж лица. \nС кожей на теле дела обстоят похуже,она довольно сухая, сейчас перешла на масла. Чередую миндальное и кокосовое. Люблю массаж.\nВолосы стараюсь максимально увлажнять. Маски делаю 2 раза в неделю. В поисках идеальных средств для волос, но на данный момент мой фаворит moroccanoil. \nСлежу за питанием, стараюсь не злоупотреблять фастфудами (хотя признаюсь, люблю это дело), стараюсь есть печёное, отварное и не употребляю коровье молоко. Заменяю кокосовым и миндальным. Обожаю салаты. \n\n**Mommys band** - Что можешь посоветовать женщинам, которые остались наедине со своими проблемами, да ещё и с детьми на руках? \n\n**Алла** - Не опускать руки. Есть выход абсолютно из любой ситуации. Просто встаешь утром и вперед. Нет отговорк, нет жалости к себе, нет оправданий и каких-то причин. Есть только желание или не желание. А если есть желание развиваться и что-то делать, то все обязательно получится. Проверено.\n\n\n</div>",
+        "content": "---\npath: \"/alla\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка c Аллой Удальцовой\"\nsrc: \"/static/2m.jpg\" \n---\n<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/2t.jpg\">\n<img class=\"pic\" src=\"/static/2m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Мини-интервью в рамках рубрики \"Мама недели\"\n\n##  Мы решили разнообразить нашу страничку и ввести рубрику «Мама недели», где будем делиться с вами историями мам. Сегодня мы откровенно поговорим с героиней недели - Аллой Удальцовой.\n\n**Mommys band - Алла, тебе сейчас 24. За последние 5 лет в твоей жизни произошло много событий, которые изменили тебя не только внешне (ты стала взрослее, мудрее, ушли твои милые щечки, а взгляд стал строже и глубже), но и внутренне. Я бы хотела, чтобы твоя автобиография стала для кого-то вдохновением и желанием жить и жить счастливо не смотря ни на что. Чуть больше четырёх лет назад, когда родился Дима, ты потеряла мужа. Это было внезапно, больно. Как ты выбралась? Что помогло преодолеть весь этот ужас и жить дальше?**\n\n**Алла** - Честно, это было ужасно. Я не помню свои эмоции поминутно, да и не могу сказать, что что-то четко помню. Все было как в тумане. Мне хотелось куда-то бежать, кричать, что-то делать. Мне помогло пережить первый шок то, что я сама занималась организацией похорон от «а» до «я». Я сделала так, как должно было быть и процесс организации очень мне помог в первые дни. Я не была один на один со своими мыслями. Могу сказать, что я основательно отошла от всей этой истории года 2 спустя. Меня очень поддерживали мои родители. Если бы не мама с папой, я даже не знаю, что было бы. Спустя 2 года у меня начался период переоценки ценностей, и я избавилась окончательно от образа жертвы. Я осознала, что по сути ко мне и моему ребенку это не имеет ни какого отношения. Вся эта история началась за долго до наших отношений и рождения Димы. В течении года я разобралась с тараканами в голове, начала принимать себя такую, какая я есть, прокачивала себя. В итоге очень сильно изменилось мое окружение. Я, можно сказать, избавилась от людей с которыми мне не комфортно, которые ищут выгоду, которые сплетничают за спиной, а в глаза сказать не могут. В результате я выросла и мне уже не интересно с людьми, которые не растут и не развиваются. В итоге тот ужас который свалился на мои плечи, заставил меня заново взглянуть на себя, появилась та Алла, которая есть сейчас. Но нет предела совершенству. Нужно работать и работать над собой. Иногда дать себе пендель, иногда остаться наедине со своими мыслями...\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/3t.jpg\">\n<img class=\"pic\" src=\"/static/3m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Это правда, что ты сама делала ремонт?**\n\n**Алла** - У меня была, конечно же, бригада из 2х человек. Но я делала многое сама. Начиная выбором обоев, заканчивая поднятием сторойматериалов в квартиру. Потом сама ездила покупала мебель и на своей машине привозила домой, поднимала все тоже сама (в основном я ездила по магазинам вечером или ночью, когда Дима спал). Я сама собрала всю мебель в комнате Димы. И стоит до сих пор! Папа в тот период сломал себе один позвонок и не мог мне помочь, поскольку лежал. Но эта ситуация преподнесла мне еще один урок в жизни - не верь, люди любят чесать языком. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/4t.jpg\">\n<img class=\"pic\" src=\"/static/4m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Я помню тебя совсем юной девчушкой, с щечками, с сумкой Louis Vuitton и в лабутенах. Ты всегда проявляла интерес к миру моды. Но в этом году ты меня приятно удивила и стала сотрудницей Vogue Russia! Расскажи, как ты туда устроилась и есть ли шанс у простых смертных попасть в журнал мечты, модничать и работать в Condé Nast?**\n\n**Алла** - Не буду скрывать, я всегда об этом мечтала. Журнал Vogue - это же бомба. Я собирала номера, привозила из путешествий иностранные издания. Из Америки везла два толстенных номера! Попала очень просто. Выложила свое резюме на hh.ru. Меня пригласили на собеседование. Я даже не знала какой журнал, пока не подошла к концу первая встреча с очаровательной сотрудницей HR-отдела. Когда я услышала, что Vogue, я сразу же сказала себе - это мое место. Так и получилось. Я была самой настоящей смертной. За меня никто не просил, никто не помогал. Все сама.\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/5t.jpg\">\n<img class=\"pic\" src=\"/static/5m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Алла, какого это воспитывать сына? У тебя есть какие-то методы и секреты воспитания пацана?**\n\n**Алла** - Это интересно. Я не читала никаких книг про детей никогда. Мой подход - воспитай себя. Мы с Димой не просто мама и сын, мы друзья. Мы любим дурачиться, смеяться, щекотать друг друга и прыгать на кровати. Я позволяю Диме делать все то, что я делала в детстве и то, что я хотела делать. Я никогда не обращалась к нему, как к ребенку и никогда не сюсюкаюсь. Люблю Диму обнимать и целовать. Он от этого не в восторге, стоит и ждёт, пока я нацелую и наобнимаю его и говорит: «Мама, может хвалить обниматься, можно я пойду железную дорого строить».\nНам такой вариант диалога подходит. Мы счастливы. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/6t.jpg\">\n<img class=\"pic\" src=\"/static/6m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Дима ходит в садик? Бытует мнение, точнее некоторые мамы убеждены, что сады это зло. Якобы в садах дети дерутся, становятся агрессивней, часто болеют. Я считаю, что это первая и чуть ли не главная школа жизни. Но надо очень много говорить с ребёнком, чтобы он рассказывал все, что происходит в садике.**\n\n**Алла** - Дима ходит в сад. Я абсолютно с тобой согласна, детский сад - это школа жизни. Болеет частенько, но лучше пусть он переболеет в саду, чем в школе. Я стараюсь относиться к его ОРВИ спокойно, а свои переживания оставлять при себе. \nНаш первый сад подкачал, сейчас я перевела его в другой. Тьфу-тьфу, надеюсь, все будет хорошо. У нас с Димой есть диалог. Я считаю, что это самое важное. Он рассказывает мне все свои секреты. Даже все те секреты, инициатором которых был сам Дима. Я люблю его слушать, он мне напоминает меня. Он знает, что мне он может рассказать все и это останется только между нами.\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/8t.jpg\">\n<img class=\"pic\" src=\"/static/8m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Ты невероятно красивая. Расскажи о своём уходе за лицом, телом и волосах.** \n\n**Алла** - Благодарю. Лицо. Все очень просто, кожу хорошо очищаем, затем увлажняем. У меня уход Sensai. Он дорогой, но очень экономичный и хорошо работает. Часто меня можно встретить без косметики - использую только дневной крем с spf. Если есть косметика, то это минимум пудры, тени, туш, карандаш для бровей, румяна. Люблю разные увлажняющие маски, стараюсь раз в месяц делать массаж лица. \nС кожей на теле дела обстоят похуже,она довольно сухая, сейчас перешла на масла. Чередую миндальное и кокосовое. Люблю массаж.\nВолосы стараюсь максимально увлажнять. Маски делаю 2 раза в неделю. В поисках идеальных средств для волос, но на данный момент мой фаворит moroccanoil. \nСлежу за питанием, стараюсь не злоупотреблять фастфудами (хотя признаюсь, люблю это дело), стараюсь есть печёное, отварное и не употребляю коровье молоко. Заменяю кокосовым и миндальным. Обожаю салаты. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/9t.jpg\">\n<img class=\"pic\" src=\"/static/9m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Что можешь посоветовать женщинам, которые остались наедине со своими проблемами, да ещё и с детьми на руках?** \n\n**Алла** - Не опускать руки. Есть выход абсолютно из любой ситуации. Просто встаешь утром и вперед. Нет отговорк, нет жалости к себе, нет оправданий и каких-то причин. Есть только желание или не желание. А если есть желание развиваться и что-то делать, то все обязательно получится. Проверено.\n\n\n</div>",
         "type": "MarkdownRemark",
-        "contentDigest": "ee4235fed7f68718e6daf798be34e60f",
+        "contentDigest": "ce43a478b3293b4f05515bd0776aba72",
         "owner": "gatsby-transformer-remark"
       },
       "frontmatter": {
@@ -1388,21 +1345,65 @@
         "parent": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file"
       },
       "excerpt": "",
-      "rawMarkdownBody": "<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/1t.jpg\">\n<img class=\"pic\" src=\"/static/1m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Мини-интервью в рамках рубрики \"Мама недели\"\n\n##  Мы решили разнообразить нашу страничку и ввести рубрику «Мама недели», где будем делиться с вами историями мам.Сегодня мы откровенно поговорим с героиней недели - Аллой Удальцовой.\n\n**Mommys band** - Алла, тебе сейчас 24. За последние 5 лет в твоей жизни произошло много событий, которые изменили тебя не только внешне (ты стала взрослее, мудрее, ушли твои милые щечки, а взгляд стал строже и глубже), но и внутренне. Я бы хотела, чтобы твоя автобиография стала для кого-то вдохновением и желанием жить и жить счастливо не смотря ни на что. Чуть больше четырёх лет назад, когда родился Дима, ты потеряла мужа. Это было внезапно, больно. Как ты выбралась? Что помогло преодолеть весь этот ужас и жить дальше?\n\n**Алла** - Честно, это было ужасно. Я не помню свои эмоции поминутно, да и не могу сказать, что что-то четко помню. Все было как в тумане. Мне хотелось куда-то бежать, кричать, что-то делать. Мне помогло пережить первый шок то, что я сама занималась организацией похорон от «а» до «я». Я сделала так, как должно было быть и процесс организации очень мне помог в первые дни. Я не была один на один со своими мыслями. Могу сказать, что я основательно отошла от всей этой истории года 2 спустя. Меня очень поддерживали мои родители. Если бы не мама с папой, я даже не знаю, что было бы. Спустя 2 года у меня начался период переоценки ценностей, и я избавилась окончательно от образа жертвы. Я осознала, что по сути ко мне и моему ребенку это не имеет ни какого отношения. Вся эта история началась за долго до наших отношений и рождения Димы. В течении года я разобралась с тараканами в голове, начала принимать себя такую, какая я есть, прокачивала себя. В итоге очень сильно изменилось мое окружение. Я, можно сказать, избавилась от людей с которыми мне не комфортно, которые ищут выгоду, которые сплетничают за спиной, а в глаза сказать не могут. В результате я выросла и мне уже не интересно с людьми, которые не растут и не развиваются. В итоге тот ужас который свалился на мои плечи, заставил меня заново взглянуть на себя, появилась та Алла, которая есть сейчас. Но нет предела совершенству. Нужно работать и работать над собой. Иногда дать себе пендель, иногда остаться наедине со своими мыслями...\n\n**Mommys band** - Это правда, что ты сама делала ремонт? \n\n**Алла** - У меня была, конечно же, бригада из 2х человек. Но я делала многое сама. Начиная выбором обоев, заканчивая поднятием сторойматериалов в квартиру. Потом сама ездила покупала мебель и на своей машине привозила домой, поднимала все тоже сама (в основном я ездила по магазинам вечером или ночью, когда Дима спал). Я сама собрала всю мебель в комнате Димы. И стоит до сих пор! Папа в тот период сломал себе один позвонок и не мог мне помочь, поскольку лежал. Но эта ситуация преподнесла мне еще один урок в жизни - не верь, люди любят чесать языком. \n\n**Mommys band** - Я помню тебя совсем юной девчушкой, с щечками, с сумкой Louis Vuitton и в лабутенах. Ты всегда проявляла интерес к миру моды. Но в этом году ты меня приятно удивила и стала сотрудницей Vogue Russia! Расскажи, как ты туда устроилась и есть ли шанс у простых смертных попасть в журнал мечты, модничать и работать в Condé Nast?\n\n**Алла** - Не буду скрывать, я всегда об этом мечтала. Журнал Vogue - это же бомба. Я собирала номера, привозила из путешествий иностранные издания. Из Америки везла два толстенных номера! Попала очень просто. Выложила свое резюме на hh.ru. Меня пригласили на собеседование. Я даже не знала какой журнал, пока не подошла к концу первая встреча с очаровательной сотрудницей HR-отдела. Когда я услышала, что Vogue, я сразу же сказала себе - это мое место. Так и получилось. Я была самой настоящей смертной. За меня никто не просил, никто не помогал. Все сама.\n\n**Mommys band** - Алла, какого это воспитывать сына? У тебя есть какие-то методы и секреты воспитания пацана?\n\n**Алла** - Это интересно. Я не читала никаких книг про детей никогда. Мой подход - воспитай себя. Мы с Димой не просто мама и сын, мы друзья. Мы любим дурачиться, смеяться, щекотать друг друга и прыгать на кровати. Я позволяю Диме делать все то, что я делала в детстве и то, что я хотела делать. Я никогда не обращалась к нему, как к ребенку и никогда не сюсюкаюсь. Люблю Диму обнимать и целовать. Он от этого не в восторге, стоит и ждёт, пока я нацелую и наобнимаю его и говорит: «Мама, может хвалить обниматься, можно я пойду железную дорого строить».\nНам такой вариант диалога подходит. Мы счастливы. \n\n**Mommys band** - Дима ходит в садик? Бытует мнение, точнее некоторые мамы убеждены, что сады это зло. Якобы в садах дети дерутся, становятся агрессивней, часто болеют. Я считаю, что это первая и чуть ли не главная школа жизни. Но надо очень много говорить с ребёнком, чтобы он рассказывал все, что происходит в садике. \n\n**Алла** - Дима ходит в сад. Я абсолютно с тобой согласна, детский сад - это школа жизни. Болеет частенько, но лучше пусть он переболеет в саду, чем в школе. Я стараюсь относиться к его ОРВИ спокойно, а свои переживания оставлять при себе. \nНаш первый сад подкачал, сейчас я перевела его в другой. Тьфу-тьфу, надеюсь, все будет хорошо. У нас с Димой есть диалог. Я считаю, что это самое важное. Он рассказывает мне все свои секреты. Даже все те секреты, инициатором которых был сам Дима. Я люблю его слушать, он мне напоминает меня. Он знает, что мне он может рассказать все и это останется только между нами.\n\n**Mommys band** - Ты невероятно красивая. Расскажи о своём уходе за лицом, телом и волосах. \n\n**Алла** - Благодарю. Лицо. Все очень просто, кожу хорошо очищаем, затем увлажняем. У меня уход Sensai. Он дорогой, но очень экономичный и хорошо работает. Часто меня можно встретить без косметики - использую только дневной крем с spf. Если есть косметика, то это минимум пудры, тени, туш, карандаш для бровей, румяна. Люблю разные увлажняющие маски, стараюсь раз в месяц делать массаж лица. \nС кожей на теле дела обстоят похуже,она довольно сухая, сейчас перешла на масла. Чередую миндальное и кокосовое. Люблю массаж.\nВолосы стараюсь максимально увлажнять. Маски делаю 2 раза в неделю. В поисках идеальных средств для волос, но на данный момент мой фаворит moroccanoil. \nСлежу за питанием, стараюсь не злоупотреблять фастфудами (хотя признаюсь, люблю это дело), стараюсь есть печёное, отварное и не употребляю коровье молоко. Заменяю кокосовым и миндальным. Обожаю салаты. \n\n**Mommys band** - Что можешь посоветовать женщинам, которые остались наедине со своими проблемами, да ещё и с детьми на руках? \n\n**Алла** - Не опускать руки. Есть выход абсолютно из любой ситуации. Просто встаешь утром и вперед. Нет отговорк, нет жалости к себе, нет оправданий и каких-то причин. Есть только желание или не желание. А если есть желание развиваться и что-то делать, то все обязательно получится. Проверено.\n\n\n</div>",
+      "rawMarkdownBody": "<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/2t.jpg\">\n<img class=\"pic\" src=\"/static/2m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Мини-интервью в рамках рубрики \"Мама недели\"\n\n##  Мы решили разнообразить нашу страничку и ввести рубрику «Мама недели», где будем делиться с вами историями мам. Сегодня мы откровенно поговорим с героиней недели - Аллой Удальцовой.\n\n**Mommys band - Алла, тебе сейчас 24. За последние 5 лет в твоей жизни произошло много событий, которые изменили тебя не только внешне (ты стала взрослее, мудрее, ушли твои милые щечки, а взгляд стал строже и глубже), но и внутренне. Я бы хотела, чтобы твоя автобиография стала для кого-то вдохновением и желанием жить и жить счастливо не смотря ни на что. Чуть больше четырёх лет назад, когда родился Дима, ты потеряла мужа. Это было внезапно, больно. Как ты выбралась? Что помогло преодолеть весь этот ужас и жить дальше?**\n\n**Алла** - Честно, это было ужасно. Я не помню свои эмоции поминутно, да и не могу сказать, что что-то четко помню. Все было как в тумане. Мне хотелось куда-то бежать, кричать, что-то делать. Мне помогло пережить первый шок то, что я сама занималась организацией похорон от «а» до «я». Я сделала так, как должно было быть и процесс организации очень мне помог в первые дни. Я не была один на один со своими мыслями. Могу сказать, что я основательно отошла от всей этой истории года 2 спустя. Меня очень поддерживали мои родители. Если бы не мама с папой, я даже не знаю, что было бы. Спустя 2 года у меня начался период переоценки ценностей, и я избавилась окончательно от образа жертвы. Я осознала, что по сути ко мне и моему ребенку это не имеет ни какого отношения. Вся эта история началась за долго до наших отношений и рождения Димы. В течении года я разобралась с тараканами в голове, начала принимать себя такую, какая я есть, прокачивала себя. В итоге очень сильно изменилось мое окружение. Я, можно сказать, избавилась от людей с которыми мне не комфортно, которые ищут выгоду, которые сплетничают за спиной, а в глаза сказать не могут. В результате я выросла и мне уже не интересно с людьми, которые не растут и не развиваются. В итоге тот ужас который свалился на мои плечи, заставил меня заново взглянуть на себя, появилась та Алла, которая есть сейчас. Но нет предела совершенству. Нужно работать и работать над собой. Иногда дать себе пендель, иногда остаться наедине со своими мыслями...\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/3t.jpg\">\n<img class=\"pic\" src=\"/static/3m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Это правда, что ты сама делала ремонт?**\n\n**Алла** - У меня была, конечно же, бригада из 2х человек. Но я делала многое сама. Начиная выбором обоев, заканчивая поднятием сторойматериалов в квартиру. Потом сама ездила покупала мебель и на своей машине привозила домой, поднимала все тоже сама (в основном я ездила по магазинам вечером или ночью, когда Дима спал). Я сама собрала всю мебель в комнате Димы. И стоит до сих пор! Папа в тот период сломал себе один позвонок и не мог мне помочь, поскольку лежал. Но эта ситуация преподнесла мне еще один урок в жизни - не верь, люди любят чесать языком. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/4t.jpg\">\n<img class=\"pic\" src=\"/static/4m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Я помню тебя совсем юной девчушкой, с щечками, с сумкой Louis Vuitton и в лабутенах. Ты всегда проявляла интерес к миру моды. Но в этом году ты меня приятно удивила и стала сотрудницей Vogue Russia! Расскажи, как ты туда устроилась и есть ли шанс у простых смертных попасть в журнал мечты, модничать и работать в Condé Nast?**\n\n**Алла** - Не буду скрывать, я всегда об этом мечтала. Журнал Vogue - это же бомба. Я собирала номера, привозила из путешествий иностранные издания. Из Америки везла два толстенных номера! Попала очень просто. Выложила свое резюме на hh.ru. Меня пригласили на собеседование. Я даже не знала какой журнал, пока не подошла к концу первая встреча с очаровательной сотрудницей HR-отдела. Когда я услышала, что Vogue, я сразу же сказала себе - это мое место. Так и получилось. Я была самой настоящей смертной. За меня никто не просил, никто не помогал. Все сама.\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/5t.jpg\">\n<img class=\"pic\" src=\"/static/5m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Алла, какого это воспитывать сына? У тебя есть какие-то методы и секреты воспитания пацана?**\n\n**Алла** - Это интересно. Я не читала никаких книг про детей никогда. Мой подход - воспитай себя. Мы с Димой не просто мама и сын, мы друзья. Мы любим дурачиться, смеяться, щекотать друг друга и прыгать на кровати. Я позволяю Диме делать все то, что я делала в детстве и то, что я хотела делать. Я никогда не обращалась к нему, как к ребенку и никогда не сюсюкаюсь. Люблю Диму обнимать и целовать. Он от этого не в восторге, стоит и ждёт, пока я нацелую и наобнимаю его и говорит: «Мама, может хвалить обниматься, можно я пойду железную дорого строить».\nНам такой вариант диалога подходит. Мы счастливы. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/6t.jpg\">\n<img class=\"pic\" src=\"/static/6m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Дима ходит в садик? Бытует мнение, точнее некоторые мамы убеждены, что сады это зло. Якобы в садах дети дерутся, становятся агрессивней, часто болеют. Я считаю, что это первая и чуть ли не главная школа жизни. Но надо очень много говорить с ребёнком, чтобы он рассказывал все, что происходит в садике.**\n\n**Алла** - Дима ходит в сад. Я абсолютно с тобой согласна, детский сад - это школа жизни. Болеет частенько, но лучше пусть он переболеет в саду, чем в школе. Я стараюсь относиться к его ОРВИ спокойно, а свои переживания оставлять при себе. \nНаш первый сад подкачал, сейчас я перевела его в другой. Тьфу-тьфу, надеюсь, все будет хорошо. У нас с Димой есть диалог. Я считаю, что это самое важное. Он рассказывает мне все свои секреты. Даже все те секреты, инициатором которых был сам Дима. Я люблю его слушать, он мне напоминает меня. Он знает, что мне он может рассказать все и это останется только между нами.\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/8t.jpg\">\n<img class=\"pic\" src=\"/static/8m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Ты невероятно красивая. Расскажи о своём уходе за лицом, телом и волосах.** \n\n**Алла** - Благодарю. Лицо. Все очень просто, кожу хорошо очищаем, затем увлажняем. У меня уход Sensai. Он дорогой, но очень экономичный и хорошо работает. Часто меня можно встретить без косметики - использую только дневной крем с spf. Если есть косметика, то это минимум пудры, тени, туш, карандаш для бровей, румяна. Люблю разные увлажняющие маски, стараюсь раз в месяц делать массаж лица. \nС кожей на теле дела обстоят похуже,она довольно сухая, сейчас перешла на масла. Чередую миндальное и кокосовое. Люблю массаж.\nВолосы стараюсь максимально увлажнять. Маски делаю 2 раза в неделю. В поисках идеальных средств для волос, но на данный момент мой фаворит moroccanoil. \nСлежу за питанием, стараюсь не злоупотреблять фастфудами (хотя признаюсь, люблю это дело), стараюсь есть печёное, отварное и не употребляю коровье молоко. Заменяю кокосовым и миндальным. Обожаю салаты. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/9t.jpg\">\n<img class=\"pic\" src=\"/static/9m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Что можешь посоветовать женщинам, которые остались наедине со своими проблемами, да ещё и с детьми на руках?** \n\n**Алла** - Не опускать руки. Есть выход абсолютно из любой ситуации. Просто встаешь утром и вперед. Нет отговорк, нет жалости к себе, нет оправданий и каких-то причин. Есть только желание или не желание. А если есть желание развиваться и что-то делать, то все обязательно получится. Проверено.\n\n\n</div>",
       "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md"
+    },
+    "SitePage /dasha": {
+      "layout": "index",
+      "jsonName": "dasha.json",
+      "internalComponentName": "ComponentDasha",
+      "path": "/dasha",
+      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "id": "SitePage /dasha",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f36d0222b62adc80dc208dad1e81a094",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark",
+      "children": [],
+      "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+      "internal": {
+        "content": "---\npath: \"/dasha\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка с Дашей Марининой\"\nsrc: \"/static/7m.jpg\"\n---\n<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Сегодня мы поговорили с Дашей Марининой, фотомоделью, а также мамой прекрасного мальчика Марка, который в течение всей съемки заряжал нашу съемочную группу своим заразительным смехом. \n\n**Mommys band - Даша, ты выглядишь очень юно! Наверняка, незнакомые люди думают, что Марк - твой брат?**\n\n**Даша** - Многие так и думают, хотя мы с ним не очень-то и похожи:)\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - К тебе сразу пришло понимание того, что ты теперь мама? У меня, к примеру, это произошло только через пару лет. До этого все было как в тумане.**\n\n**Даша** - Я ощущаю себя мамой с того дня, как узнала, что беремена. В тумане было несколько месяцев после родов, когда я вообще ничего не осознавала от недосыпов и усталости. \n\n**Mommys band - Поменялась ли твоя жизнь после рождения сына?** \n\n**Даша** - Жизнь поменялась кардинально. Во-первых, пришло осознание ответственности, что теперь надо следить не только за собой, но и за сыном. Во-вторых, я стала женственней, сменила джинсы на платья, начала растить активно волосы и чаще уделять время всяким девичьим делам. Также поменялся мой режим дня, теперь я просыпаюсь очень рано, несмотря на то, во сколько я легла и ложилась ли вообще.\n\n**Mommys band - Как давно ты занимаешься моделингом? Трудно ли совмещать работу с материнством?**\n\n**Даша** - Моделингом занимаюсь с двадцати лет. Если честно, очень сложно стало последние полгода, поскольку Марк стал очень активным и не сидит на одном месте, а еще взял привычку лезть в кадр и частенько капризничает. \n\n**Mommys band - Расскажи о своём питании и как ты держишь себя в форме?**\n\n**Даша** - Питание мое изменилось после родов. Если раньше я могла позволить себе фастфуд, то после родов я отдаю предпочтение полезной пище. В привычку взяла обязательно плотно завтракать. Отказалась от сахара и газировок, стала чаще есть овощи и фрукты. А чтобы держать себя в форме, конечно же не забываю и про спорт. \n\n**Mommys band - Бывает ли у тебя, что опускаются руки и нет ни на что сил? Откуда ты черпаешь вдохновение и откуда берёшь силы на все?**\n\n**Даша** - Конечно, такое бывает. Во-первых, помогает хороший сон. Если пропало вдохновение, я беру сына и отправляюсь гулять в центр города, там я заряжаюсь общей энергетикой. Еще меня вдохновляют творческие люди: модели, стилисты, визажисты и другие интересные личности. Наблюдая за их успехом, тоже появляется желание покорять вершины, чтобы потом мой малыш гордился мамой.\n\n</div>",
+        "type": "MarkdownRemark",
+        "contentDigest": "ad30e99bc945fd8f4d35fdacaae988f1",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Съемка с Дашей Марининой",
+        "path": "/dasha",
+        "date": "2017-07-12T17:12:33.962Z",
+        "src": "/static/7m.jpg",
+        "_PARENT": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+        "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Сегодня мы поговорили с Дашей Марининой, фотомоделью, а также мамой прекрасного мальчика Марка, который в течение всей съемки заряжал нашу съемочную группу своим заразительным смехом. \n\n**Mommys band - Даша, ты выглядишь очень юно! Наверняка, незнакомые люди думают, что Марк - твой брат?**\n\n**Даша** - Многие так и думают, хотя мы с ним не очень-то и похожи:)\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - К тебе сразу пришло понимание того, что ты теперь мама? У меня, к примеру, это произошло только через пару лет. До этого все было как в тумане.**\n\n**Даша** - Я ощущаю себя мамой с того дня, как узнала, что беремена. В тумане было несколько месяцев после родов, когда я вообще ничего не осознавала от недосыпов и усталости. \n\n**Mommys band - Поменялась ли твоя жизнь после рождения сына?** \n\n**Даша** - Жизнь поменялась кардинально. Во-первых, пришло осознание ответственности, что теперь надо следить не только за собой, но и за сыном. Во-вторых, я стала женственней, сменила джинсы на платья, начала растить активно волосы и чаще уделять время всяким девичьим делам. Также поменялся мой режим дня, теперь я просыпаюсь очень рано, несмотря на то, во сколько я легла и ложилась ли вообще.\n\n**Mommys band - Как давно ты занимаешься моделингом? Трудно ли совмещать работу с материнством?**\n\n**Даша** - Моделингом занимаюсь с двадцати лет. Если честно, очень сложно стало последние полгода, поскольку Марк стал очень активным и не сидит на одном месте, а еще взял привычку лезть в кадр и частенько капризничает. \n\n**Mommys band - Расскажи о своём питании и как ты держишь себя в форме?**\n\n**Даша** - Питание мое изменилось после родов. Если раньше я могла позволить себе фастфуд, то после родов я отдаю предпочтение полезной пище. В привычку взяла обязательно плотно завтракать. Отказалась от сахара и газировок, стала чаще есть овощи и фрукты. А чтобы держать себя в форме, конечно же не забываю и про спорт. \n\n**Mommys band - Бывает ли у тебя, что опускаются руки и нет ни на что сил? Откуда ты черпаешь вдохновение и откуда берёшь силы на все?**\n\n**Даша** - Конечно, такое бывает. Во-первых, помогает хороший сон. Если пропало вдохновение, я беру сына и отправляюсь гулять в центр города, там я заряжаюсь общей энергетикой. Еще меня вдохновляют творческие люди: модели, стилисты, визажисты и другие интересные личности. Наблюдая за их успехом, тоже появляется желание покорять вершины, чтобы потом мой малыш гордился мамой.\n\n</div>",
+      "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md"
     }
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "1feba7183105bf3f6914c33fb47e9c78"
+    "PLUGINS_HASH": "2424012f616815ceae343a7ef18d599b"
   },
   "componentDataDependencies": {
     "nodes": {
+      "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": [
+        "/hello-world-two",
+        "/dasha"
+      ],
       "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark": [
         "/alla"
-      ],
-      "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": [
-        "/hello-world-two"
       ],
       "Site": [
         "LAYOUT___index"
