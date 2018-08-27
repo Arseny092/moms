@@ -1,76 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9b5772f-4ba3-42a1-98b7-be545b7e8775" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/config.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/static/admin/index.html" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.cache/json/hello-world.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chain-function/.gitattributes" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chain-function/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chain-function/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chain-function/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/chain-function/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-images/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/src/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/CSSTransitionGroup.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/CSSTransitionGroupChild.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/async-requires.js" afterPath="$PROJECT_DIR$/.cache/async-requires.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/cache/db.json" afterPath="$PROJECT_DIR$/.cache/cache/db.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/json/alla.json" afterPath="$PROJECT_DIR$/.cache/json/alla.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/json/blog.json" afterPath="$PROJECT_DIR$/.cache/json/blog.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/json/dev-404-page.json" afterPath="$PROJECT_DIR$/.cache/json/dev-404-page.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/json/hello-world-two.json" afterPath="$PROJECT_DIR$/.cache/json/hello-world-two.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/json/layout-index.json" afterPath="$PROJECT_DIR$/.cache/json/layout-index.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/pages.json" afterPath="$PROJECT_DIR$/.cache/pages.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/redux-state.json" afterPath="$PROJECT_DIR$/.cache/redux-state.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.cache/sync-requires.js" afterPath="$PROJECT_DIR$/.cache/sync-requires.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/.idea/workspace.xml" afterPath="$PROJECT_DIR$/node_modules/bowser/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/CHANGELOG.md" afterPath="$PROJECT_DIR$/node_modules/bowser/CHANGELOG.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/README.md" afterPath="$PROJECT_DIR$/node_modules/bowser/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/bower.json" afterPath="$PROJECT_DIR$/node_modules/bowser/bower.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/bowser.js" afterPath="$PROJECT_DIR$/node_modules/bowser/bowser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/bowser.min.js" afterPath="$PROJECT_DIR$/node_modules/bowser/bowser.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/package.json" afterPath="$PROJECT_DIR$/node_modules/bowser/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/src/bowser.js" afterPath="$PROJECT_DIR$/node_modules/bowser/src/bowser.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/bowser/typings.d.ts" afterPath="$PROJECT_DIR$/node_modules/bowser/typings.d.ts" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/.babelrc" afterPath="$PROJECT_DIR$/node_modules/react-images/.babelrc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/.github/HISTORY.md" afterPath="$PROJECT_DIR$/node_modules/react-images/.github/HISTORY.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/README.md" afterPath="$PROJECT_DIR$/node_modules/react-images/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/dist/react-images.es.js" afterPath="$PROJECT_DIR$/node_modules/react-images/dist/react-images.es.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/dist/react-images.js" afterPath="$PROJECT_DIR$/node_modules/react-images/dist/react-images.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/dist/react-images.min.js" afterPath="$PROJECT_DIR$/node_modules/react-images/dist/react-images.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/dist/app.js" afterPath="$PROJECT_DIR$/node_modules/react-images/examples/dist/app.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/dist/common.js" afterPath="$PROJECT_DIR$/node_modules/react-images/examples/dist/common.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/dist/example.css" afterPath="$PROJECT_DIR$/node_modules/react-images/examples/dist/example.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/dist/index.html" afterPath="$PROJECT_DIR$/node_modules/react-images/examples/dist/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/src/index.html" afterPath="$PROJECT_DIR$/node_modules/react-images/examples/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/examples/src/standalone.html" afterPath="$PROJECT_DIR$/node_modules/react-images/examples/src/standalone.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/lib/Lightbox.js" afterPath="$PROJECT_DIR$/node_modules/react-images/lib/Lightbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/lib/components/Header.js" afterPath="$PROJECT_DIR$/node_modules/react-images/lib/components/Header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/lib/components/Portal.js" afterPath="$PROJECT_DIR$/node_modules/react-images/lib/components/Portal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/lib/utils/deepMerge.js" afterPath="$PROJECT_DIR$/node_modules/react-images/lib/utils/deepMerge.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/package.json" afterPath="$PROJECT_DIR$/node_modules/react-images/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/rollup.config.js" afterPath="$PROJECT_DIR$/node_modules/react-images/rollup.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/src/Lightbox.js" afterPath="$PROJECT_DIR$/node_modules/react-images/src/Lightbox.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/src/components/Header.js" afterPath="$PROJECT_DIR$/node_modules/react-images/src/components/Header.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/src/components/Portal.js" afterPath="$PROJECT_DIR$/node_modules/react-images/src/components/Portal.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/webpack.config.js" afterPath="$PROJECT_DIR$/node_modules/react-images/webpack.config.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-images/yarn.lock" afterPath="$PROJECT_DIR$/node_modules/react-images/yarn.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/TransitionGroup.js" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/TransitionGroup.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/dist/react-transition-group.js" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/dist/react-transition-group.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/dist/react-transition-group.min.js" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/dist/react-transition-group.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/index.js" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/package.json" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/utils/ChildMapping.js" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/utils/ChildMapping.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/node_modules/react-transition-group/utils/PropTypes.js" afterPath="$PROJECT_DIR$/node_modules/react-transition-group/utils/PropTypes.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/layouts/index.css" afterPath="$PROJECT_DIR$/src/layouts/index.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/07-08-2018/index.md" afterPath="$PROJECT_DIR$/src/pages/07-08-2018/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/08-09-2018/index.md" afterPath="$PROJECT_DIR$/src/pages/08-09-2018/index.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/pages/about.js" afterPath="$PROJECT_DIR$/src/pages/about.js" />
-    </list>
+    <list default="true" id="e9b5772f-4ba3-42a1-98b7-be545b7e8775" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -232,8 +163,8 @@
     <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="622" />
-    <option name="y" value="627" />
+    <option name="x" value="492" />
+    <option name="y" value="201" />
     <option name="width" value="929" />
     <option name="height" value="722" />
   </component>
@@ -267,33 +198,18 @@
             <path>
               <item name="momsband" type="b2602c69:ProjectViewProjectNode" />
               <item name="momsband" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="momsband" type="b2602c69:ProjectViewProjectNode" />
+              <item name="momsband" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="momsband" type="b2602c69:ProjectViewProjectNode" />
               <item name="momsband" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="momsband" type="b2602c69:ProjectViewProjectNode" />
-              <item name="momsband" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="momsband" type="b2602c69:ProjectViewProjectNode" />
-              <item name="momsband" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="07-08-2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="momsband" type="b2602c69:ProjectViewProjectNode" />
-              <item name="momsband" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="pages" type="462c0819:PsiDirectoryNode" />
-              <item name="08-09-2018" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -362,18 +278,17 @@
       <workItem from="1535218822914" duration="375000" />
       <workItem from="1535308357920" duration="6810000" />
       <workItem from="1535352639766" duration="168000" />
-      <workItem from="1535363870912" duration="4554000" />
+      <workItem from="1535363870912" duration="4866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39721000" />
+    <option name="totallyTimeSpent" value="40033000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="622" y="627" width="929" height="722" extended-state="0" />
-    <editor active="true" />
+    <frame x="492" y="201" width="929" height="722" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32378855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32378855" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32010242" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
