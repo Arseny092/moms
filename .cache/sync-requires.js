@@ -8,7 +8,6 @@ exports.layouts = {
 
 exports.components = {
   "component---src-templates-blog-post-js": preferDefault(require("/Users/arseny/Documents/momsband/src/templates/blog-post.js")),
-  "component---cache-dev-404-page-js": preferDefault(require("/Users/arseny/Documents/momsband/.cache/dev-404-page.js")),
   "component---src-pages-404-js": preferDefault(require("/Users/arseny/Documents/momsband/src/pages/404.js")),
   "component---src-pages-about-js": preferDefault(require("/Users/arseny/Documents/momsband/src/pages/about.js")),
   "component---src-pages-blog-js": preferDefault(require("/Users/arseny/Documents/momsband/src/pages/blog.js")),
@@ -17,13 +16,11 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/arseny/Documents/momsband/.cache/json/layout-index.json"),
-  "hello-world-two.json": require("/Users/arseny/Documents/momsband/.cache/json/hello-world-two.json"),
   "alla.json": require("/Users/arseny/Documents/momsband/.cache/json/alla.json"),
-  "dev-404-page.json": require("/Users/arseny/Documents/momsband/.cache/json/dev-404-page.json"),
+  "dasha.json": require("/Users/arseny/Documents/momsband/.cache/json/dasha.json"),
   "404.json": require("/Users/arseny/Documents/momsband/.cache/json/404.json"),
   "about.json": require("/Users/arseny/Documents/momsband/.cache/json/about.json"),
   "blog.json": require("/Users/arseny/Documents/momsband/.cache/json/blog.json"),
   "index.json": require("/Users/arseny/Documents/momsband/.cache/json/index.json"),
-  "404-html.json": require("/Users/arseny/Documents/momsband/.cache/json/404-html.json"),
-  "dasha.json": require("/Users/arseny/Documents/momsband/.cache/json/dasha.json")
+  "404-html.json": require("/Users/arseny/Documents/momsband/.cache/json/404-html.json")
 }
