@@ -1,0 +1,17 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+publish_mode: editorial_workflow
+media_folder: "static/uploads"
+collections:
+  - name: "blog"
+    label: "Blog"
+    folder: "src/pages"
+    create: true
+    slug: "{{day}}-{{month}}-{{year}}-{{slug}}"
+    fields:
+      - {label: "title", name: "title", widget: "string"}
+      - {label: "date", name: "date", widget: "datetime"}
+      - {label: "src", name: "thumbnail", widget: "image"}
+      - {label: "path", name: "rating", widget: "number"}
+      - {label: "Body", name: "body", widget: "markdown"}

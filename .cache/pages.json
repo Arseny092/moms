@@ -3,15 +3,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hello-world.json",
-        "path": "/hello-world"
+        "jsonName": "hello-world-two.json",
+        "path": "/hello-world-two"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "hello-world-two.json",
-        "path": "/hello-world-two"
+        "jsonName": "alla.json",
+        "path": "/alla"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",
@@ -59,7 +59,7 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "alla.json",
-        "path": "/alla"
+        "jsonName": "dasha.json",
+        "path": "/dasha"
     }
 ]
