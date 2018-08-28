@@ -48,7 +48,7 @@
     cursor: pointer;
 }
 .form-submit:hover {
-    background-color: ghostwhite;
+    background-color: #F5F5F5;
 }
 .form-input {
     width: 60vw;
