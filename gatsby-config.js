@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: 'Mommys band',
+    title: 'MB.',
   },
     plugins: [
         'gatsby-plugin-catch-links',

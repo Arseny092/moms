@@ -1,8 +1,9 @@
 import React from 'react'
-import Link from 'gatsby-link'
+import MainForm from "../components/form/form";
 
 const SecondPage = () => (
-    <div className="about-container">
+    <div>
+        <div className="about-container">
         <h1>Привет!</h1>
         <p>
             Мы проект Mommy’s Band во главе с фотографом Аней Парамоновой, а также стилистом Евгенией Тарлецкой.
@@ -10,7 +11,8 @@ const SecondPage = () => (
             Наша команда готова превратить любую маму и ее дитя в настоящих звёзд и запечатлеть эти волшебные моменты на фотографиях.
             Мы предлагаем фотосессию «под ключ». Все, что вам нужно - выбрать удобную дату, все остальное за вас сделаем мы!
             Открыта запись на съемки на июнь. Детали и бронирование - mommysgang@gmail.com.</p>
-        <Link to="/">Портфолио</Link>
+            <MainForm/>
+        </div>
     </div>
 )
 

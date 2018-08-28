@@ -1,1 +1,1 @@
-{"data":{"allSitePage":{"totalCount":8,"edges":[{"node":{"path":"/hello-world-two"}},{"node":{"path":"/alla"}},{"node":{"path":"/404/"}},{"node":{"path":"/about/"}},{"node":{"path":"/blog/"}},{"node":{"path":"/"}},{"node":{"path":"/404.html"}},{"node":{"path":"/dasha"}}]}},"pathContext":{}}
+{"data":{"allSitePage":{"totalCount":7,"edges":[{"node":{"path":"/alla"}},{"node":{"path":"/dasha"}},{"node":{"path":"/404/"}},{"node":{"path":"/about/"}},{"node":{"path":"/blog/"}},{"node":{"path":"/"}},{"node":{"path":"/404.html"}}]}},"pathContext":{}}
