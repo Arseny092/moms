@@ -6,6 +6,15 @@ module.exports = {
         'gatsby-plugin-catch-links',
         'gatsby-plugin-react-helmet',
         {
+            resolve: 'gatsby-plugin-web-font-loader',
+            options: {
+                google: {
+                    families: ['Kosugi Maru']
+                }
+            }
+
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 path: `${__dirname}/src/pages`,

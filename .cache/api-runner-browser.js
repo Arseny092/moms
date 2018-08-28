@@ -1,6 +1,9 @@
 var plugins = [{
       plugin: require('/Users/arseny/Documents/momsband/node_modules/gatsby-plugin-catch-links/gatsby-browser'),
       options: {"plugins":[]},
+    },{
+      plugin: require('/Users/arseny/Documents/momsband/node_modules/gatsby-plugin-web-font-loader/gatsby-browser'),
+      options: {"plugins":[],"google":{"families":["Kosugi Maru"]}},
     }]
 // During bootstrap, we write requires at top of this file which looks
 // basically like:

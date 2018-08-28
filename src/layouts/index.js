@@ -4,6 +4,7 @@ import Helmet from 'react-helmet'
 
 import Header from '../components/header/header'
 import './index.css'
+import Footer from "../components/footer/footer";
 
 const Layout = ({ children, data }) => (
   <div>
@@ -18,6 +19,7 @@ const Layout = ({ children, data }) => (
     <div className="container">
         {children()}
     </div>
+      <Footer/>
   </div>
 )
 

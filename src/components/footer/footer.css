@@ -1,0 +1,50 @@
+.footer {
+    margin: 0 auto;
+    width: 100%;
+    box-sizing: border-box;
+    height: 100px;
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+.footer__item {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+}
+.footer__item--insta {
+    background-image: url(/static/icons/insta.svg);
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: 60px;
+}
+.footer__item--fb {
+    background-image: url(/static/icons/facebook.svg);
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: 60px;
+}
+.footer__item--vk {
+    background-image: url(/static/icons/whatsapp.svg);
+    background-repeat: no-repeat;
+    background-position-y: 50%;
+    background-position-x: 50%;
+    background-size: 60px;
+}
+.footer__item--insta:hover {
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    border-radius: 14px;
+}
+.footer__item--fb:hover {
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    border-radius: 14px;
+}
+.footer__item--vk:hover {
+    box-shadow: 0 0 15px rgba(0,0,0,0.5);
+    border-radius: 14px;
+}
