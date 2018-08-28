@@ -621,6 +621,7 @@ pre tt:after {
   display: block;
   margin: 0 auto;
   width: 100%;
+  padding-top: 7vh;
 }
 .blog-posts {
   margin: 0 auto;
@@ -678,7 +679,7 @@ pre tt:after {
 .pic {
   display: block;
   margin: 0 auto;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 .ReactGridGallery {
   display: block;
@@ -687,7 +688,6 @@ pre tt:after {
 .container-main {
   display: block;
   margin: 0 auto;
-  padding-top: 5vh;
   width: 100%;
 }
 .blog-post-container {
@@ -706,15 +706,16 @@ pre tt:after {
   margin-top: 20px;
 }
 .about-container {
-  margin: 0 auto;
   display: block;
-  padding-right: 30px;
+  margin: 0 auto;
   padding-left: 30px;
-  text-align: justify;
+  padding-right: 30px;
 }
 .about-container h1 {
-  margin-top: 30px;
   text-align: center;
+}
+.about-container p {
+  text-align: justify;
 }
 @media (min-width: 340px) {
   .container-main {
@@ -742,6 +743,9 @@ pre tt:after {
   .int-container {
     width: 500px;
   }
+  .about-container {
+    width: 500px;
+  }
 }
 @media (min-width: 960px) {
   .container-main {
@@ -749,5 +753,8 @@ pre tt:after {
   }
   .int-container {
     width: 700px;
+  }
+  .about-container {
+    width: 800px;
   }
 }

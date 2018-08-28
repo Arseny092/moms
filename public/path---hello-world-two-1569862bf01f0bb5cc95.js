@@ -1,2 +1,2 @@
-webpackJsonp([90966983959613],{382:function(t,o){t.exports={data:{markdownRemark:{html:'<p>Oooooh-weeee, my first blog post!\n<img src="/static/1m.jpg" alt="alt text" title="Logo Title Text 1"></p>',frontmatter:{date:"July 12, 2017",path:"/hello-world-two",title:"Съемка 12/07/2018"}}},pathContext:{}}}});
+webpackJsonp([90966983959613],{383:function(t,o){t.exports={data:{markdownRemark:{html:'<p>Oooooh-weeee, my first blog post!\n<img src="/static/1m.jpg" alt="alt text" title="Logo Title Text 1"></p>',frontmatter:{date:"July 12, 2017",path:"/hello-world-two",title:"Съемка 12/07/2018"}}},pathContext:{}}}});
 //# sourceMappingURL=path---hello-world-two-1569862bf01f0bb5cc95.js.map

@@ -13,7 +13,7 @@
     "invariant": "^2.2.4",
     "react-grid-gallery": "^0.4.11",
     "react-helmet": "^5.2.0",
-    "react-images": "^0.5.19",
+    "react-images": "^0.5.17",
     "react-media": "^1.8.0",
     "react-photo-gallery": "^6.0.28"
   },
