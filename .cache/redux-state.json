@@ -16,7 +16,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c86c7ae9eb9354bbe60684f8d378bc52",
+        "contentDigest": "5e89a63b3a2e5b7ae1e41ecd090e6826",
         "description": "Plugin dev-404-page",
         "owner": "internal-data-bridge"
       }
@@ -682,6 +682,26 @@
         "license": "MIT",
         "dependencies": [
           {
+            "name": "@fortawesome/fontawesome-svg-core",
+            "version": "^1.2.0-14"
+          },
+          {
+            "name": "@fortawesome/free-brands-svg-icons",
+            "version": "^5.1.0-11"
+          },
+          {
+            "name": "@fortawesome/free-regular-svg-icons",
+            "version": "^5.1.0-11"
+          },
+          {
+            "name": "@fortawesome/free-solid-svg-icons",
+            "version": "^5.1.0-11"
+          },
+          {
+            "name": "@fortawesome/react-fontawesome",
+            "version": "0.1.0-11"
+          },
+          {
             "name": "gatsby",
             "version": "^1.9.277"
           },
@@ -728,6 +748,10 @@
           {
             "name": "react-media",
             "version": "^1.8.0"
+          },
+          {
+            "name": "react-onclickoutside",
+            "version": "^6.7.1"
           },
           {
             "name": "react-photo-gallery",
@@ -842,12 +866,12 @@
       "host": "localhost",
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2018-08-28T18:43:06.683Z",
+      "buildTime": "2018-09-04T11:19:05.291Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "85cba214c543aa200c05756f116fcd89",
+        "contentDigest": "f82df6b12b8bc8569f7275b67056d0aa",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -857,7 +881,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "dbf90d1f00119df722b55601a9eef5f6",
+        "contentDigest": "7449ca50110677c53b1328fe508e3fdb",
         "type": "Directory",
         "description": "Directory \"src/pages\"",
         "owner": "gatsby-source-filesystem"
@@ -868,9 +892,9 @@
       "extension": "",
       "size": 288,
       "prettySize": "288 B",
-      "modifiedTime": "2018-08-28T13:01:27.063Z",
-      "accessTime": "2018-08-28T18:43:08.463Z",
-      "changeTime": "2018-08-28T13:01:27.063Z",
+      "modifiedTime": "2018-08-28T20:23:23.492Z",
+      "accessTime": "2018-09-04T11:19:06.965Z",
+      "changeTime": "2018-08-28T20:23:23.492Z",
       "birthTime": "2018-08-26T10:57:16.000Z",
       "root": "/",
       "dir": "/Users/arseny/Documents/momsband/src",
@@ -887,13 +911,13 @@
       "blksize": 4194304,
       "ino": 4302320155,
       "blocks": 0,
-      "atimeMs": 1535481788462.9958,
-      "mtimeMs": 1535461287063.1719,
-      "ctimeMs": 1535461287063.1719,
+      "atimeMs": 1536059946964.6865,
+      "mtimeMs": 1535487803491.6892,
+      "ctimeMs": 1535487803491.6892,
       "birthtimeMs": 1535281036000,
-      "atime": "2018-08-28T18:43:08.463Z",
-      "mtime": "2018-08-28T13:01:27.063Z",
-      "ctime": "2018-08-28T13:01:27.063Z",
+      "atime": "2018-09-04T11:19:06.965Z",
+      "mtime": "2018-08-28T20:23:23.492Z",
+      "ctime": "2018-08-28T20:23:23.492Z",
       "birthtime": "2018-08-26T10:57:16.000Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/07-08-2018 absPath of file": {
@@ -901,7 +925,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "84d503c0c9146f0305cd48f1d1f1fe7e",
+        "contentDigest": "bb1ec8bb477437c49c5c13843febb584",
         "type": "Directory",
         "description": "Directory \"src/pages/07-08-2018\"",
         "owner": "gatsby-source-filesystem"
@@ -913,7 +937,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-08-28T12:21:34.577Z",
-      "accessTime": "2018-08-28T18:43:08.465Z",
+      "accessTime": "2018-09-04T11:19:06.967Z",
       "changeTime": "2018-08-28T12:21:34.577Z",
       "birthTime": "2018-08-26T10:57:16.000Z",
       "root": "/",
@@ -931,11 +955,11 @@
       "blksize": 4194304,
       "ino": 4302320156,
       "blocks": 0,
-      "atimeMs": 1535481788465.4775,
+      "atimeMs": 1536059946967.0337,
       "mtimeMs": 1535458894577.2825,
       "ctimeMs": 1535458894577.2825,
       "birthtimeMs": 1535281036000,
-      "atime": "2018-08-28T18:43:08.465Z",
+      "atime": "2018-09-04T11:19:06.967Z",
       "mtime": "2018-08-28T12:21:34.577Z",
       "ctime": "2018-08-28T12:21:34.577Z",
       "birthtime": "2018-08-26T10:57:16.000Z"
@@ -945,7 +969,7 @@
       "children": [],
       "parent": "___SOURCE___",
       "internal": {
-        "contentDigest": "c613ba439dd693abb08f01f7fb95bafb",
+        "contentDigest": "76db4b3a6b2c48c56eb36d4095558267",
         "type": "Directory",
         "description": "Directory \"src/pages/08-09-2018\"",
         "owner": "gatsby-source-filesystem"
@@ -957,7 +981,7 @@
       "size": 128,
       "prettySize": "128 B",
       "modifiedTime": "2018-08-28T12:28:20.856Z",
-      "accessTime": "2018-08-28T18:43:08.466Z",
+      "accessTime": "2018-09-04T11:19:06.967Z",
       "changeTime": "2018-08-28T12:28:20.856Z",
       "birthTime": "2018-08-26T10:57:16.000Z",
       "root": "/",
@@ -975,11 +999,11 @@
       "blksize": 4194304,
       "ino": 4302320162,
       "blocks": 0,
-      "atimeMs": 1535481788465.5703,
+      "atimeMs": 1536059946967.0625,
       "mtimeMs": 1535459300855.9526,
       "ctimeMs": 1535459300855.9526,
       "birthtimeMs": 1535281036000,
-      "atime": "2018-08-28T18:43:08.466Z",
+      "atime": "2018-09-04T11:19:06.967Z",
       "mtime": "2018-08-28T12:28:20.856Z",
       "ctime": "2018-08-28T12:28:20.856Z",
       "birthtime": "2018-08-26T10:57:16.000Z"
@@ -1002,7 +1026,7 @@
       "size": 12292,
       "prettySize": "12.3 kB",
       "modifiedTime": "2018-08-28T12:51:59.238Z",
-      "accessTime": "2018-08-28T18:37:28.339Z",
+      "accessTime": "2018-09-04T10:56:39.725Z",
       "changeTime": "2018-08-28T12:51:59.238Z",
       "birthTime": "2018-08-28T12:18:53.680Z",
       "root": "/",
@@ -1020,11 +1044,11 @@
       "blksize": 4194304,
       "ino": 4302320605,
       "blocks": 32,
-      "atimeMs": 1535481448339.2007,
+      "atimeMs": 1536058599724.7222,
       "mtimeMs": 1535460719238.271,
       "ctimeMs": 1535460719238.271,
       "birthtimeMs": 1535458733679.859,
-      "atime": "2018-08-28T18:37:28.339Z",
+      "atime": "2018-09-04T10:56:39.725Z",
       "mtime": "2018-08-28T12:51:59.238Z",
       "ctime": "2018-08-28T12:51:59.238Z",
       "birthtime": "2018-08-28T12:18:53.680Z"
@@ -1047,7 +1071,7 @@
       "size": 198,
       "prettySize": "198 B",
       "modifiedTime": "2018-08-26T10:57:16.000Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
+      "accessTime": "2018-09-04T10:56:44.149Z",
       "changeTime": "2018-08-28T12:10:45.761Z",
       "birthTime": "2018-08-26T10:57:16.000Z",
       "root": "/",
@@ -1065,11 +1089,11 @@
       "blksize": 4194304,
       "ino": 4302320159,
       "blocks": 8,
-      "atimeMs": 1535463758978.334,
+      "atimeMs": 1536058604148.5474,
       "mtimeMs": 1535281036000,
       "ctimeMs": 1535458245761.22,
       "birthtimeMs": 1535281036000,
-      "atime": "2018-08-28T13:42:38.978Z",
+      "atime": "2018-09-04T10:56:44.149Z",
       "mtime": "2018-08-26T10:57:16.000Z",
       "ctime": "2018-08-28T12:10:45.761Z",
       "birthtime": "2018-08-26T10:57:16.000Z"
@@ -1092,7 +1116,7 @@
       "size": 1247,
       "prettySize": "1.25 kB",
       "modifiedTime": "2018-08-28T13:01:27.057Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
+      "accessTime": "2018-09-04T10:56:44.149Z",
       "changeTime": "2018-08-28T13:01:27.063Z",
       "birthTime": "2018-08-28T13:01:27.057Z",
       "root": "/",
@@ -1110,11 +1134,11 @@
       "blksize": 4194304,
       "ino": 4302385818,
       "blocks": 8,
-      "atimeMs": 1535463758978.3848,
+      "atimeMs": 1536058604148.5583,
       "mtimeMs": 1535461287057.0713,
       "ctimeMs": 1535461287062.99,
       "birthtimeMs": 1535461287056.8313,
-      "atime": "2018-08-28T13:42:38.978Z",
+      "atime": "2018-09-04T10:56:44.149Z",
       "mtime": "2018-08-28T13:01:27.057Z",
       "ctime": "2018-08-28T13:01:27.063Z",
       "birthtime": "2018-08-28T13:01:27.057Z"
@@ -1137,7 +1161,7 @@
       "size": 1531,
       "prettySize": "1.53 kB",
       "modifiedTime": "2018-08-26T10:57:16.000Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
+      "accessTime": "2018-09-04T10:56:44.149Z",
       "changeTime": "2018-08-28T12:10:45.762Z",
       "birthTime": "2018-08-26T10:57:16.000Z",
       "root": "/",
@@ -1155,11 +1179,11 @@
       "blksize": 4194304,
       "ino": 4302320161,
       "blocks": 8,
-      "atimeMs": 1535463758978.4333,
+      "atimeMs": 1536058604148.5688,
       "mtimeMs": 1535281036000,
       "ctimeMs": 1535458245762.3635,
       "birthtimeMs": 1535281036000,
-      "atime": "2018-08-28T13:42:38.978Z",
+      "atime": "2018-09-04T10:56:44.149Z",
       "mtime": "2018-08-26T10:57:16.000Z",
       "ctime": "2018-08-28T12:10:45.762Z",
       "birthtime": "2018-08-26T10:57:16.000Z"
@@ -1182,7 +1206,7 @@
       "size": 14531,
       "prettySize": "14.5 kB",
       "modifiedTime": "2018-08-28T20:23:23.489Z",
-      "accessTime": "2018-08-28T20:23:23.489Z",
+      "accessTime": "2018-09-04T10:56:44.149Z",
       "changeTime": "2018-08-28T20:23:23.492Z",
       "birthTime": "2018-08-28T20:23:23.489Z",
       "root": "/",
@@ -1200,151 +1224,14 @@
       "blksize": 4194304,
       "ino": 4302410124,
       "blocks": 32,
-      "atimeMs": 1535487803488.9128,
+      "atimeMs": 1536058604148.5854,
       "mtimeMs": 1535487803489.0078,
       "ctimeMs": 1535487803491.5671,
       "birthtimeMs": 1535487803488.9128,
-      "atime": "2018-08-28T20:23:23.489Z",
+      "atime": "2018-09-04T10:56:44.149Z",
       "mtime": "2018-08-28T20:23:23.489Z",
       "ctime": "2018-08-28T20:23:23.492Z",
       "birthtime": "2018-08-28T20:23:23.489Z"
-    },
-    "/Users/arseny/Documents/momsband/src/pages/07-08-2018/.DS_Store absPath of file": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/.DS_Store absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
-        "mediaType": "application/octet-stream",
-        "type": "File",
-        "description": "File \"src/pages/07-08-2018/.DS_Store\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/.DS_Store",
-      "relativePath": "07-08-2018/.DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-08-28T12:21:34.541Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
-      "changeTime": "2018-08-28T12:21:34.541Z",
-      "birthTime": "2018-08-28T12:21:34.541Z",
-      "root": "/",
-      "dir": "/Users/arseny/Documents/momsband/src/pages/07-08-2018",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
-      "relativeDirectory": "07-08-2018",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4302351418,
-      "blocks": 16,
-      "atimeMs": 1535463758978.1921,
-      "mtimeMs": 1535458894541.0405,
-      "ctimeMs": 1535458894541.0405,
-      "birthtimeMs": 1535458894540.5688,
-      "atime": "2018-08-28T13:42:38.978Z",
-      "mtime": "2018-08-28T12:21:34.541Z",
-      "ctime": "2018-08-28T12:21:34.541Z",
-      "birthtime": "2018-08-28T12:21:34.541Z"
-    },
-    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
-      "children": [
-        "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark"
-      ],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "404845f48cacc35dc5f2360d910b81c6",
-        "mediaType": "text/markdown",
-        "type": "File",
-        "description": "File \"src/pages/08-09-2018/index.md\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md",
-      "relativePath": "08-09-2018/index.md",
-      "extension": "md",
-      "size": 4678,
-      "prettySize": "4.68 kB",
-      "modifiedTime": "2018-08-27T10:29:06.000Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
-      "changeTime": "2018-08-28T12:28:20.856Z",
-      "birthTime": "2018-08-27T10:29:06.000Z",
-      "root": "/",
-      "dir": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
-      "base": "index.md",
-      "ext": ".md",
-      "name": "index",
-      "relativeDirectory": "08-09-2018",
-      "dev": 16777221,
-      "mode": 33261,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4302382611,
-      "blocks": 16,
-      "atimeMs": 1535463758978.2974,
-      "mtimeMs": 1535365746000,
-      "ctimeMs": 1535459300856.3826,
-      "birthtimeMs": 1535365746000,
-      "atime": "2018-08-28T13:42:38.978Z",
-      "mtime": "2018-08-27T10:29:06.000Z",
-      "ctime": "2018-08-28T12:28:20.856Z",
-      "birthtime": "2018-08-27T10:29:06.000Z"
-    },
-    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/.DS_Store absPath of file": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/.DS_Store absPath of file",
-      "children": [],
-      "parent": "___SOURCE___",
-      "internal": {
-        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
-        "mediaType": "application/octet-stream",
-        "type": "File",
-        "description": "File \"src/pages/08-09-2018/.DS_Store\"",
-        "owner": "gatsby-source-filesystem"
-      },
-      "sourceInstanceName": "pages",
-      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/.DS_Store",
-      "relativePath": "08-09-2018/.DS_Store",
-      "extension": "",
-      "size": 6148,
-      "prettySize": "6.15 kB",
-      "modifiedTime": "2018-08-28T12:28:20.809Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
-      "changeTime": "2018-08-28T12:28:20.809Z",
-      "birthTime": "2018-08-28T12:28:20.808Z",
-      "root": "/",
-      "dir": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
-      "base": ".DS_Store",
-      "ext": "",
-      "name": ".DS_Store",
-      "relativeDirectory": "08-09-2018",
-      "dev": 16777221,
-      "mode": 33188,
-      "nlink": 1,
-      "uid": 501,
-      "gid": 20,
-      "rdev": 0,
-      "blksize": 4194304,
-      "ino": 4302382610,
-      "blocks": 16,
-      "atimeMs": 1535463758978.2607,
-      "mtimeMs": 1535459300808.9692,
-      "ctimeMs": 1535459300808.9692,
-      "birthtimeMs": 1535459300808.2666,
-      "atime": "2018-08-28T13:42:38.978Z",
-      "mtime": "2018-08-28T12:28:20.809Z",
-      "ctime": "2018-08-28T12:28:20.809Z",
-      "birthtime": "2018-08-28T12:28:20.808Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file": {
       "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file",
@@ -1366,7 +1253,7 @@
       "size": 13157,
       "prettySize": "13.2 kB",
       "modifiedTime": "2018-08-27T10:28:40.000Z",
-      "accessTime": "2018-08-28T13:42:38.978Z",
+      "accessTime": "2018-09-04T10:56:39.716Z",
       "changeTime": "2018-08-28T12:23:10.075Z",
       "birthTime": "2018-08-27T10:28:40.000Z",
       "root": "/",
@@ -1384,36 +1271,151 @@
       "blksize": 4194304,
       "ino": 4302351419,
       "blocks": 32,
-      "atimeMs": 1535463758978.2297,
+      "atimeMs": 1536058599715.557,
       "mtimeMs": 1535365720000,
       "ctimeMs": 1535458990075.4475,
       "birthtimeMs": 1535365720000,
-      "atime": "2018-08-28T13:42:38.978Z",
+      "atime": "2018-09-04T10:56:39.716Z",
       "mtime": "2018-08-27T10:28:40.000Z",
       "ctime": "2018-08-28T12:23:10.075Z",
       "birthtime": "2018-08-27T10:28:40.000Z"
     },
-    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": {
-      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark",
+    "/Users/arseny/Documents/momsband/src/pages/07-08-2018/.DS_Store absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/.DS_Store absPath of file",
       "children": [],
-      "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+      "parent": "___SOURCE___",
       "internal": {
-        "content": "---\npath: \"/dasha\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка с Дашей Марининой\"\nsrc: \"/static/7m.jpg\"\n---\n<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Сегодня мы поговорили с Дашей Марининой, фотомоделью, а также мамой прекрасного мальчика Марка, который в течение всей съемки заряжал нашу съемочную группу своим заразительным смехом. \n\n**Mommys band - Даша, ты выглядишь очень юно! Наверняка, незнакомые люди думают, что Марк - твой брат?**\n\n**Даша** - Многие так и думают, хотя мы с ним не очень-то и похожи:)\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - К тебе сразу пришло понимание того, что ты теперь мама? У меня, к примеру, это произошло только через пару лет. До этого все было как в тумане.**\n\n**Даша** - Я ощущаю себя мамой с того дня, как узнала, что беремена. В тумане было несколько месяцев после родов, когда я вообще ничего не осознавала от недосыпов и усталости. \n\n**Mommys band - Поменялась ли твоя жизнь после рождения сына?** \n\n**Даша** - Жизнь поменялась кардинально. Во-первых, пришло осознание ответственности, что теперь надо следить не только за собой, но и за сыном. Во-вторых, я стала женственней, сменила джинсы на платья, начала растить активно волосы и чаще уделять время всяким девичьим делам. Также поменялся мой режим дня, теперь я просыпаюсь очень рано, несмотря на то, во сколько я легла и ложилась ли вообще.\n\n**Mommys band - Как давно ты занимаешься моделингом? Трудно ли совмещать работу с материнством?**\n\n**Даша** - Моделингом занимаюсь с двадцати лет. Если честно, очень сложно стало последние полгода, поскольку Марк стал очень активным и не сидит на одном месте, а еще взял привычку лезть в кадр и частенько капризничает. \n\n**Mommys band - Расскажи о своём питании и как ты держишь себя в форме?**\n\n**Даша** - Питание мое изменилось после родов. Если раньше я могла позволить себе фастфуд, то после родов я отдаю предпочтение полезной пище. В привычку взяла обязательно плотно завтракать. Отказалась от сахара и газировок, стала чаще есть овощи и фрукты. А чтобы держать себя в форме, конечно же не забываю и про спорт. \n\n**Mommys band - Бывает ли у тебя, что опускаются руки и нет ни на что сил? Откуда ты черпаешь вдохновение и откуда берёшь силы на все?**\n\n**Даша** - Конечно, такое бывает. Во-первых, помогает хороший сон. Если пропало вдохновение, я беру сына и отправляюсь гулять в центр города, там я заряжаюсь общей энергетикой. Еще меня вдохновляют творческие люди: модели, стилисты, визажисты и другие интересные личности. Наблюдая за их успехом, тоже появляется желание покорять вершины, чтобы потом мой малыш гордился мамой.\n\n</div>",
-        "type": "MarkdownRemark",
-        "contentDigest": "ad30e99bc945fd8f4d35fdacaae988f1",
-        "owner": "gatsby-transformer-remark"
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/07-08-2018/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "frontmatter": {
-        "title": "Съемка с Дашей Марининой",
-        "path": "/dasha",
-        "date": "2017-07-12T17:12:33.962Z",
-        "src": "/static/7m.jpg",
-        "_PARENT": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
-        "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file"
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/.DS_Store",
+      "relativePath": "07-08-2018/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-08-28T12:21:34.541Z",
+      "accessTime": "2018-09-04T10:56:39.726Z",
+      "changeTime": "2018-08-28T12:21:34.541Z",
+      "birthTime": "2018-08-28T12:21:34.541Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages/07-08-2018",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "07-08-2018",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4302351418,
+      "blocks": 16,
+      "atimeMs": 1536058599725.776,
+      "mtimeMs": 1535458894541.0405,
+      "ctimeMs": 1535458894541.0405,
+      "birthtimeMs": 1535458894540.5688,
+      "atime": "2018-09-04T10:56:39.726Z",
+      "mtime": "2018-08-28T12:21:34.541Z",
+      "ctime": "2018-08-28T12:21:34.541Z",
+      "birthtime": "2018-08-28T12:21:34.541Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/.DS_Store absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/.DS_Store absPath of file",
+      "children": [],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "194577a7e20bdcc7afbb718f502c134c",
+        "mediaType": "application/octet-stream",
+        "type": "File",
+        "description": "File \"src/pages/08-09-2018/.DS_Store\"",
+        "owner": "gatsby-source-filesystem"
       },
-      "excerpt": "",
-      "rawMarkdownBody": "<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Сегодня мы поговорили с Дашей Марининой, фотомоделью, а также мамой прекрасного мальчика Марка, который в течение всей съемки заряжал нашу съемочную группу своим заразительным смехом. \n\n**Mommys band - Даша, ты выглядишь очень юно! Наверняка, незнакомые люди думают, что Марк - твой брат?**\n\n**Даша** - Многие так и думают, хотя мы с ним не очень-то и похожи:)\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - К тебе сразу пришло понимание того, что ты теперь мама? У меня, к примеру, это произошло только через пару лет. До этого все было как в тумане.**\n\n**Даша** - Я ощущаю себя мамой с того дня, как узнала, что беремена. В тумане было несколько месяцев после родов, когда я вообще ничего не осознавала от недосыпов и усталости. \n\n**Mommys band - Поменялась ли твоя жизнь после рождения сына?** \n\n**Даша** - Жизнь поменялась кардинально. Во-первых, пришло осознание ответственности, что теперь надо следить не только за собой, но и за сыном. Во-вторых, я стала женственней, сменила джинсы на платья, начала растить активно волосы и чаще уделять время всяким девичьим делам. Также поменялся мой режим дня, теперь я просыпаюсь очень рано, несмотря на то, во сколько я легла и ложилась ли вообще.\n\n**Mommys band - Как давно ты занимаешься моделингом? Трудно ли совмещать работу с материнством?**\n\n**Даша** - Моделингом занимаюсь с двадцати лет. Если честно, очень сложно стало последние полгода, поскольку Марк стал очень активным и не сидит на одном месте, а еще взял привычку лезть в кадр и частенько капризничает. \n\n**Mommys band - Расскажи о своём питании и как ты держишь себя в форме?**\n\n**Даша** - Питание мое изменилось после родов. Если раньше я могла позволить себе фастфуд, то после родов я отдаю предпочтение полезной пище. В привычку взяла обязательно плотно завтракать. Отказалась от сахара и газировок, стала чаще есть овощи и фрукты. А чтобы держать себя в форме, конечно же не забываю и про спорт. \n\n**Mommys band - Бывает ли у тебя, что опускаются руки и нет ни на что сил? Откуда ты черпаешь вдохновение и откуда берёшь силы на все?**\n\n**Даша** - Конечно, такое бывает. Во-первых, помогает хороший сон. Если пропало вдохновение, я беру сына и отправляюсь гулять в центр города, там я заряжаюсь общей энергетикой. Еще меня вдохновляют творческие люди: модели, стилисты, визажисты и другие интересные личности. Наблюдая за их успехом, тоже появляется желание покорять вершины, чтобы потом мой малыш гордился мамой.\n\n</div>",
-      "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md"
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/.DS_Store",
+      "relativePath": "08-09-2018/.DS_Store",
+      "extension": "",
+      "size": 6148,
+      "prettySize": "6.15 kB",
+      "modifiedTime": "2018-08-28T12:28:20.809Z",
+      "accessTime": "2018-09-04T10:56:39.726Z",
+      "changeTime": "2018-08-28T12:28:20.809Z",
+      "birthTime": "2018-08-28T12:28:20.808Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
+      "base": ".DS_Store",
+      "ext": "",
+      "name": ".DS_Store",
+      "relativeDirectory": "08-09-2018",
+      "dev": 16777221,
+      "mode": 33188,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4302382610,
+      "blocks": 16,
+      "atimeMs": 1536058599725.8125,
+      "mtimeMs": 1535459300808.9692,
+      "ctimeMs": 1535459300808.9692,
+      "birthtimeMs": 1535459300808.2666,
+      "atime": "2018-09-04T10:56:39.726Z",
+      "mtime": "2018-08-28T12:28:20.809Z",
+      "ctime": "2018-08-28T12:28:20.809Z",
+      "birthtime": "2018-08-28T12:28:20.808Z"
+    },
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+      "children": [
+        "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark"
+      ],
+      "parent": "___SOURCE___",
+      "internal": {
+        "contentDigest": "404845f48cacc35dc5f2360d910b81c6",
+        "mediaType": "text/markdown",
+        "type": "File",
+        "description": "File \"src/pages/08-09-2018/index.md\"",
+        "owner": "gatsby-source-filesystem"
+      },
+      "sourceInstanceName": "pages",
+      "absolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md",
+      "relativePath": "08-09-2018/index.md",
+      "extension": "md",
+      "size": 4678,
+      "prettySize": "4.68 kB",
+      "modifiedTime": "2018-08-27T10:29:06.000Z",
+      "accessTime": "2018-09-04T10:56:39.716Z",
+      "changeTime": "2018-08-28T12:28:20.856Z",
+      "birthTime": "2018-08-27T10:29:06.000Z",
+      "root": "/",
+      "dir": "/Users/arseny/Documents/momsband/src/pages/08-09-2018",
+      "base": "index.md",
+      "ext": ".md",
+      "name": "index",
+      "relativeDirectory": "08-09-2018",
+      "dev": 16777221,
+      "mode": 33261,
+      "nlink": 1,
+      "uid": 501,
+      "gid": 20,
+      "rdev": 0,
+      "blksize": 4194304,
+      "ino": 4302382611,
+      "blocks": 16,
+      "atimeMs": 1536058599715.6636,
+      "mtimeMs": 1535365746000,
+      "ctimeMs": 1535459300856.3826,
+      "birthtimeMs": 1535365746000,
+      "atime": "2018-09-04T10:56:39.716Z",
+      "mtime": "2018-08-27T10:29:06.000Z",
+      "ctime": "2018-08-28T12:28:20.856Z",
+      "birthtime": "2018-08-27T10:29:06.000Z"
     },
     "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark": {
       "id": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark",
@@ -1437,26 +1439,27 @@
       "rawMarkdownBody": "<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/2t.jpg\">\n<img class=\"pic\" src=\"/static/2m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Мини-интервью в рамках рубрики \"Мама недели\"\n\n##  Мы решили разнообразить нашу страничку и ввести рубрику «Мама недели», где будем делиться с вами историями мам. Сегодня мы откровенно поговорим с героиней недели - Аллой Удальцовой.\n\n**Mommys band - Алла, тебе сейчас 24. За последние 5 лет в твоей жизни произошло много событий, которые изменили тебя не только внешне (ты стала взрослее, мудрее, ушли твои милые щечки, а взгляд стал строже и глубже), но и внутренне. Я бы хотела, чтобы твоя автобиография стала для кого-то вдохновением и желанием жить и жить счастливо не смотря ни на что. Чуть больше четырёх лет назад, когда родился Дима, ты потеряла мужа. Это было внезапно, больно. Как ты выбралась? Что помогло преодолеть весь этот ужас и жить дальше?**\n\n**Алла** - Честно, это было ужасно. Я не помню свои эмоции поминутно, да и не могу сказать, что что-то четко помню. Все было как в тумане. Мне хотелось куда-то бежать, кричать, что-то делать. Мне помогло пережить первый шок то, что я сама занималась организацией похорон от «а» до «я». Я сделала так, как должно было быть и процесс организации очень мне помог в первые дни. Я не была один на один со своими мыслями. Могу сказать, что я основательно отошла от всей этой истории года 2 спустя. Меня очень поддерживали мои родители. Если бы не мама с папой, я даже не знаю, что было бы. Спустя 2 года у меня начался период переоценки ценностей, и я избавилась окончательно от образа жертвы. Я осознала, что по сути ко мне и моему ребенку это не имеет ни какого отношения. Вся эта история началась за долго до наших отношений и рождения Димы. В течении года я разобралась с тараканами в голове, начала принимать себя такую, какая я есть, прокачивала себя. В итоге очень сильно изменилось мое окружение. Я, можно сказать, избавилась от людей с которыми мне не комфортно, которые ищут выгоду, которые сплетничают за спиной, а в глаза сказать не могут. В результате я выросла и мне уже не интересно с людьми, которые не растут и не развиваются. В итоге тот ужас который свалился на мои плечи, заставил меня заново взглянуть на себя, появилась та Алла, которая есть сейчас. Но нет предела совершенству. Нужно работать и работать над собой. Иногда дать себе пендель, иногда остаться наедине со своими мыслями...\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/3t.jpg\">\n<img class=\"pic\" src=\"/static/3m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Это правда, что ты сама делала ремонт?**\n\n**Алла** - У меня была, конечно же, бригада из 2х человек. Но я делала многое сама. Начиная выбором обоев, заканчивая поднятием сторойматериалов в квартиру. Потом сама ездила покупала мебель и на своей машине привозила домой, поднимала все тоже сама (в основном я ездила по магазинам вечером или ночью, когда Дима спал). Я сама собрала всю мебель в комнате Димы. И стоит до сих пор! Папа в тот период сломал себе один позвонок и не мог мне помочь, поскольку лежал. Но эта ситуация преподнесла мне еще один урок в жизни - не верь, люди любят чесать языком. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/4t.jpg\">\n<img class=\"pic\" src=\"/static/4m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Я помню тебя совсем юной девчушкой, с щечками, с сумкой Louis Vuitton и в лабутенах. Ты всегда проявляла интерес к миру моды. Но в этом году ты меня приятно удивила и стала сотрудницей Vogue Russia! Расскажи, как ты туда устроилась и есть ли шанс у простых смертных попасть в журнал мечты, модничать и работать в Condé Nast?**\n\n**Алла** - Не буду скрывать, я всегда об этом мечтала. Журнал Vogue - это же бомба. Я собирала номера, привозила из путешествий иностранные издания. Из Америки везла два толстенных номера! Попала очень просто. Выложила свое резюме на hh.ru. Меня пригласили на собеседование. Я даже не знала какой журнал, пока не подошла к концу первая встреча с очаровательной сотрудницей HR-отдела. Когда я услышала, что Vogue, я сразу же сказала себе - это мое место. Так и получилось. Я была самой настоящей смертной. За меня никто не просил, никто не помогал. Все сама.\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/5t.jpg\">\n<img class=\"pic\" src=\"/static/5m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Алла, какого это воспитывать сына? У тебя есть какие-то методы и секреты воспитания пацана?**\n\n**Алла** - Это интересно. Я не читала никаких книг про детей никогда. Мой подход - воспитай себя. Мы с Димой не просто мама и сын, мы друзья. Мы любим дурачиться, смеяться, щекотать друг друга и прыгать на кровати. Я позволяю Диме делать все то, что я делала в детстве и то, что я хотела делать. Я никогда не обращалась к нему, как к ребенку и никогда не сюсюкаюсь. Люблю Диму обнимать и целовать. Он от этого не в восторге, стоит и ждёт, пока я нацелую и наобнимаю его и говорит: «Мама, может хвалить обниматься, можно я пойду железную дорого строить».\nНам такой вариант диалога подходит. Мы счастливы. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/6t.jpg\">\n<img class=\"pic\" src=\"/static/6m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Дима ходит в садик? Бытует мнение, точнее некоторые мамы убеждены, что сады это зло. Якобы в садах дети дерутся, становятся агрессивней, часто болеют. Я считаю, что это первая и чуть ли не главная школа жизни. Но надо очень много говорить с ребёнком, чтобы он рассказывал все, что происходит в садике.**\n\n**Алла** - Дима ходит в сад. Я абсолютно с тобой согласна, детский сад - это школа жизни. Болеет частенько, но лучше пусть он переболеет в саду, чем в школе. Я стараюсь относиться к его ОРВИ спокойно, а свои переживания оставлять при себе. \nНаш первый сад подкачал, сейчас я перевела его в другой. Тьфу-тьфу, надеюсь, все будет хорошо. У нас с Димой есть диалог. Я считаю, что это самое важное. Он рассказывает мне все свои секреты. Даже все те секреты, инициатором которых был сам Дима. Я люблю его слушать, он мне напоминает меня. Он знает, что мне он может рассказать все и это останется только между нами.\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/8t.jpg\">\n<img class=\"pic\" src=\"/static/8m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Ты невероятно красивая. Расскажи о своём уходе за лицом, телом и волосах.** \n\n**Алла** - Благодарю. Лицо. Все очень просто, кожу хорошо очищаем, затем увлажняем. У меня уход Sensai. Он дорогой, но очень экономичный и хорошо работает. Часто меня можно встретить без косметики - использую только дневной крем с spf. Если есть косметика, то это минимум пудры, тени, туш, карандаш для бровей, румяна. Люблю разные увлажняющие маски, стараюсь раз в месяц делать массаж лица. \nС кожей на теле дела обстоят похуже,она довольно сухая, сейчас перешла на масла. Чередую миндальное и кокосовое. Люблю массаж.\nВолосы стараюсь максимально увлажнять. Маски делаю 2 раза в неделю. В поисках идеальных средств для волос, но на данный момент мой фаворит moroccanoil. \nСлежу за питанием, стараюсь не злоупотреблять фастфудами (хотя признаюсь, люблю это дело), стараюсь есть печёное, отварное и не употребляю коровье молоко. Заменяю кокосовым и миндальным. Обожаю салаты. \n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/9t.jpg\">\n<img class=\"pic\" src=\"/static/9m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - Что можешь посоветовать женщинам, которые остались наедине со своими проблемами, да ещё и с детьми на руках?** \n\n**Алла** - Не опускать руки. Есть выход абсолютно из любой ситуации. Просто встаешь утром и вперед. Нет отговорк, нет жалости к себе, нет оправданий и каких-то причин. Есть только желание или не желание. А если есть желание развиваться и что-то делать, то все обязательно получится. Проверено.\n\n\n</div>",
       "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md"
     },
-    "SitePage /dasha": {
-      "layout": "index",
-      "jsonName": "dasha.json",
-      "internalComponentName": "ComponentDasha",
-      "path": "/dasha",
-      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
-      "componentChunkName": "component---src-templates-blog-post-js",
-      "context": {},
-      "pluginCreator___NODE": "Plugin default-site-plugin",
-      "pluginCreatorId": "Plugin default-site-plugin",
-      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
-      "id": "SitePage /dasha",
-      "parent": "SOURCE",
+    "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": {
+      "id": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark",
       "children": [],
+      "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
       "internal": {
-        "type": "SitePage",
-        "contentDigest": "014e5776ddb376e63ec78c3ef2a1dd09",
-        "description": "Your site's \"gatsby-node.js\"",
-        "owner": "internal-data-bridge"
-      }
+        "content": "---\npath: \"/dasha\"\ndate: \"2017-07-12T17:12:33.962Z\"\ntitle: \"Съемка с Дашей Марининой\"\nsrc: \"/static/7m.jpg\"\n---\n<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Сегодня мы поговорили с Дашей Марининой, фотомоделью, а также мамой прекрасного мальчика Марка, который в течение всей съемки заряжал нашу съемочную группу своим заразительным смехом. \n\n**Mommys band - Даша, ты выглядишь очень юно! Наверняка, незнакомые люди думают, что Марк - твой брат?**\n\n**Даша** - Многие так и думают, хотя мы с ним не очень-то и похожи:)\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - К тебе сразу пришло понимание того, что ты теперь мама? У меня, к примеру, это произошло только через пару лет. До этого все было как в тумане.**\n\n**Даша** - Я ощущаю себя мамой с того дня, как узнала, что беремена. В тумане было несколько месяцев после родов, когда я вообще ничего не осознавала от недосыпов и усталости. \n\n**Mommys band - Поменялась ли твоя жизнь после рождения сына?** \n\n**Даша** - Жизнь поменялась кардинально. Во-первых, пришло осознание ответственности, что теперь надо следить не только за собой, но и за сыном. Во-вторых, я стала женственней, сменила джинсы на платья, начала растить активно волосы и чаще уделять время всяким девичьим делам. Также поменялся мой режим дня, теперь я просыпаюсь очень рано, несмотря на то, во сколько я легла и ложилась ли вообще.\n\n**Mommys band - Как давно ты занимаешься моделингом? Трудно ли совмещать работу с материнством?**\n\n**Даша** - Моделингом занимаюсь с двадцати лет. Если честно, очень сложно стало последние полгода, поскольку Марк стал очень активным и не сидит на одном месте, а еще взял привычку лезть в кадр и частенько капризничает. \n\n**Mommys band - Расскажи о своём питании и как ты держишь себя в форме?**\n\n**Даша** - Питание мое изменилось после родов. Если раньше я могла позволить себе фастфуд, то после родов я отдаю предпочтение полезной пище. В привычку взяла обязательно плотно завтракать. Отказалась от сахара и газировок, стала чаще есть овощи и фрукты. А чтобы держать себя в форме, конечно же не забываю и про спорт. \n\n**Mommys band - Бывает ли у тебя, что опускаются руки и нет ни на что сил? Откуда ты черпаешь вдохновение и откуда берёшь силы на все?**\n\n**Даша** - Конечно, такое бывает. Во-первых, помогает хороший сон. Если пропало вдохновение, я беру сына и отправляюсь гулять в центр города, там я заряжаюсь общей энергетикой. Еще меня вдохновляют творческие люди: модели, стилисты, визажисты и другие интересные личности. Наблюдая за их успехом, тоже появляется желание покорять вершины, чтобы потом мой малыш гордился мамой.\n\n</div>",
+        "type": "MarkdownRemark",
+        "contentDigest": "ad30e99bc945fd8f4d35fdacaae988f1",
+        "owner": "gatsby-transformer-remark"
+      },
+      "frontmatter": {
+        "title": "Съемка с Дашей Марининой",
+        "path": "/dasha",
+        "date": "2017-07-12T17:12:33.962Z",
+        "src": "/static/7m.jpg",
+        "_PARENT": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file",
+        "parent": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file"
+      },
+      "excerpt": "",
+      "rawMarkdownBody": "<div class=\"post-container\">\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n</div>\n\n<div class = \"int-container\">\n\n# Сегодня мы поговорили с Дашей Марининой, фотомоделью, а также мамой прекрасного мальчика Марка, который в течение всей съемки заряжал нашу съемочную группу своим заразительным смехом. \n\n**Mommys band - Даша, ты выглядишь очень юно! Наверняка, незнакомые люди думают, что Марк - твой брат?**\n\n**Даша** - Многие так и думают, хотя мы с ним не очень-то и похожи:)\n\n<picture>\n<source media=\"(min-width: 620px)\" srcset=\"/static/7t.jpg\">\n<img class=\"pic\" src=\"/static/7m.jpg\" alt=\"12\">\n</picture>\n\n**Mommys band - К тебе сразу пришло понимание того, что ты теперь мама? У меня, к примеру, это произошло только через пару лет. До этого все было как в тумане.**\n\n**Даша** - Я ощущаю себя мамой с того дня, как узнала, что беремена. В тумане было несколько месяцев после родов, когда я вообще ничего не осознавала от недосыпов и усталости. \n\n**Mommys band - Поменялась ли твоя жизнь после рождения сына?** \n\n**Даша** - Жизнь поменялась кардинально. Во-первых, пришло осознание ответственности, что теперь надо следить не только за собой, но и за сыном. Во-вторых, я стала женственней, сменила джинсы на платья, начала растить активно волосы и чаще уделять время всяким девичьим делам. Также поменялся мой режим дня, теперь я просыпаюсь очень рано, несмотря на то, во сколько я легла и ложилась ли вообще.\n\n**Mommys band - Как давно ты занимаешься моделингом? Трудно ли совмещать работу с материнством?**\n\n**Даша** - Моделингом занимаюсь с двадцати лет. Если честно, очень сложно стало последние полгода, поскольку Марк стал очень активным и не сидит на одном месте, а еще взял привычку лезть в кадр и частенько капризничает. \n\n**Mommys band - Расскажи о своём питании и как ты держишь себя в форме?**\n\n**Даша** - Питание мое изменилось после родов. Если раньше я могла позволить себе фастфуд, то после родов я отдаю предпочтение полезной пище. В привычку взяла обязательно плотно завтракать. Отказалась от сахара и газировок, стала чаще есть овощи и фрукты. А чтобы держать себя в форме, конечно же не забываю и про спорт. \n\n**Mommys band - Бывает ли у тебя, что опускаются руки и нет ни на что сил? Откуда ты черпаешь вдохновение и откуда берёшь силы на все?**\n\n**Даша** - Конечно, такое бывает. Во-первых, помогает хороший сон. Если пропало вдохновение, я беру сына и отправляюсь гулять в центр города, там я заряжаюсь общей энергетикой. Еще меня вдохновляют творческие люди: модели, стилисты, визажисты и другие интересные личности. Наблюдая за их успехом, тоже появляется желание покорять вершины, чтобы потом мой малыш гордился мамой.\n\n</div>",
+      "fileAbsolutePath": "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md"
     },
     "SitePage /alla": {
       "layout": "index",
@@ -1474,7 +1477,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4e347fff9f4f54ba426a9cd3a30f1a52",
+        "contentDigest": "8e7a43dc886c0f16cd6e1dcfdab0b6bf",
+        "description": "Your site's \"gatsby-node.js\"",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /dasha": {
+      "layout": "index",
+      "jsonName": "dasha.json",
+      "internalComponentName": "ComponentDasha",
+      "path": "/dasha",
+      "component": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "componentChunkName": "component---src-templates-blog-post-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin default-site-plugin",
+      "pluginCreatorId": "Plugin default-site-plugin",
+      "componentPath": "/Users/arseny/Documents/momsband/src/templates/blog-post.js",
+      "id": "SitePage /dasha",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "f70952b8a439a7941e0150874803cc03",
         "description": "Your site's \"gatsby-node.js\"",
         "owner": "internal-data-bridge"
       }
@@ -1495,7 +1519,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "78c825473f38d47eb400b03b69939768",
+        "contentDigest": "9e98109ec9a3df434b4ea0b627f6761c",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1516,7 +1540,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "1b94351d8dfbbbac7cb6abf37eacf48c",
+        "contentDigest": "a21a2018682da2606dfca52e96e7e2da",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1537,7 +1561,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ce8112fed528b54f74fe3f014e976475",
+        "contentDigest": "38f7d590e8c226509b75b5dcd6fbeb31",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1558,7 +1582,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "c0c57186093fcf2688ad38b31e2cf490",
+        "contentDigest": "6725c91afd0e1aa158b44d12712a2bc3",
         "description": "Plugin gatsby-plugin-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -1579,7 +1603,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "4990369ee2239028af2efa9a01c12c8a",
+        "contentDigest": "b102f270fb5c688d216b43b09f6aba7a",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -1587,26 +1611,26 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "bc1d704cdb76650519622267acc1e317"
+    "PLUGINS_HASH": "a93454ff7f5c9b6596dcb686d1edbe7e"
   },
   "componentDataDependencies": {
     "nodes": {
-      "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": [
-        "/dasha"
-      ],
       "/Users/arseny/Documents/momsband/src/pages/07-08-2018/index.md absPath of file >>> MarkdownRemark": [
         "/alla"
+      ],
+      "/Users/arseny/Documents/momsband/src/pages/08-09-2018/index.md absPath of file >>> MarkdownRemark": [
+        "/dasha"
       ],
       "Site": [
         "LAYOUT___index"
       ]
     },
     "connections": {
-      "MarkdownRemark": [
-        "/blog/"
-      ],
       "SitePage": [
         "/dev-404-page/"
+      ],
+      "MarkdownRemark": [
+        "/blog/"
       ]
     }
   }

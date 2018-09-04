@@ -1,19 +1,19 @@
 .menu-icon {
     display: block;
-    width: 100px;
     padding-top: 10px;
     cursor: pointer;
     text-transform: uppercase;
 }
 
 .menu {
-    position: relative;
+    position: absolute;
 }
 .menu-nav {
     margin: 0 auto;
     position: absolute;
     list-style-type: none;
     text-transform: uppercase;
+    width: 100px;
 }
 .menu-nav li a {
     display: block;

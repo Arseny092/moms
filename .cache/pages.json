@@ -3,15 +3,15 @@
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "dasha.json",
-        "path": "/dasha"
+        "jsonName": "alla.json",
+        "path": "/alla"
     },
     {
         "componentChunkName": "component---src-templates-blog-post-js",
         "layout": "layout---index",
         "layoutComponentChunkName": "component---src-layouts-index-js",
-        "jsonName": "alla.json",
-        "path": "/alla"
+        "jsonName": "dasha.json",
+        "path": "/dasha"
     },
     {
         "componentChunkName": "component---cache-dev-404-page-js",

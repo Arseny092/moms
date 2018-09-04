@@ -1,6 +1,10 @@
 import React from 'react'
 import Link from 'gatsby-link'
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBars} from '@fortawesome/free-solid-svg-icons'
+import { faTimes } from '@fortawesome/free-solid-svg-icons'
+
 import '../menu/menu.css'
 
 class Menu extends React.Component {
@@ -37,7 +41,11 @@ class Menu extends React.Component {
         return (
             <div className="menu-icon">
                 <div onClick={this.showMenu}>
-                    меню
+                    {this.state.showMenu
+                        ? <FontAwesomeIcon icon={faTimes} size="lg"/>
+                        : <FontAwesomeIcon icon={faBars} size="lg"/>
+
+                    }
                 </div>
 
                 {
