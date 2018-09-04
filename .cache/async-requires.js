@@ -12,8 +12,8 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("gatsby-module-loader?name=path---!/Users/arseny/Documents/momsband/.cache/json/layout-index.json"),
-  "dasha.json": require("gatsby-module-loader?name=path---dasha!/Users/arseny/Documents/momsband/.cache/json/dasha.json"),
   "alla.json": require("gatsby-module-loader?name=path---alla!/Users/arseny/Documents/momsband/.cache/json/alla.json"),
+  "dasha.json": require("gatsby-module-loader?name=path---dasha!/Users/arseny/Documents/momsband/.cache/json/dasha.json"),
   "dev-404-page.json": require("gatsby-module-loader?name=path---dev-404-page!/Users/arseny/Documents/momsband/.cache/json/dev-404-page.json"),
   "404.json": require("gatsby-module-loader?name=path---404!/Users/arseny/Documents/momsband/.cache/json/404.json"),
   "about.json": require("gatsby-module-loader?name=path---about!/Users/arseny/Documents/momsband/.cache/json/about.json"),

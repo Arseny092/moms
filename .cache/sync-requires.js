@@ -17,8 +17,8 @@ exports.components = {
 
 exports.json = {
   "layout-index.json": require("/Users/arseny/Documents/momsband/.cache/json/layout-index.json"),
-  "dasha.json": require("/Users/arseny/Documents/momsband/.cache/json/dasha.json"),
   "alla.json": require("/Users/arseny/Documents/momsband/.cache/json/alla.json"),
+  "dasha.json": require("/Users/arseny/Documents/momsband/.cache/json/dasha.json"),
   "dev-404-page.json": require("/Users/arseny/Documents/momsband/.cache/json/dev-404-page.json"),
   "404.json": require("/Users/arseny/Documents/momsband/.cache/json/404.json"),
   "about.json": require("/Users/arseny/Documents/momsband/.cache/json/about.json"),
